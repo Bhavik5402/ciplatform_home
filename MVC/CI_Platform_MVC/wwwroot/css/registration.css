@@ -1,0 +1,122 @@
+.main-container{
+    display: flex;
+}
+
+.slide-content{
+    width: 70%;
+    /* width: 1050px; */
+    /* height: 728px; */
+    height: 100%;
+}
+
+.carousel-item img{
+    height: 960px ;
+}
+
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+
+.second-part{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+.form-content{
+    margin-top: 50px;
+    /* width: 350px; */
+    /* text-align: center; */
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+label{
+    color: #414141 !important;
+}
+
+
+.submit-btn{
+    width: 100%;
+    border: 2px solid #F88634 !important;
+    background: none !important;
+    color: #F88634;
+    border-radius: 24px;
+    font-size: 18px;
+}
+.submit-btn:hover{
+    
+    border: 2px solid #F88634 !important;
+    background-color:#F88634 !important;
+    color: white;
+    
+}
+
+.forgot-password{
+    margin-top: 5px;
+    text-align: center;
+}
+.privacy{
+    margin-bottom: 5px;
+    text-align: center;
+}
+.privacy a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+.create-account{
+    margin-top: 5px;
+    text-align: center;
+    color: #414141;
+    font-size: 18px;
+}
+.create-account a{
+    text-decoration: none;
+}
+
+.forgot-password a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+@media screen and (max-width: 1000px){
+    .main-container{
+        display: block;
+    }
+    .slide-content{
+        width: 100%;
+
+    }
+    .carousel-item img{
+        height: 100% !important;
+    }
+
+    .form-content{
+        margin-top: 20px;
+        width: 50% ; 
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    .second-part{
+        align-items: center;
+        width: 100%;
+    }
+    .secondary-heading{
+        display: none;
+    }
+    .create-account{
+        font-size: 16px !important;
+    }
+
+    a{
+        font-size: 16px !important;
+    }
+
+
+}

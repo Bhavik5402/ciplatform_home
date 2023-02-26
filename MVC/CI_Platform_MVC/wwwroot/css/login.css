@@ -1,0 +1,837 @@
+.main-container {
+    display: flex;
+}
+
+.slide-content {
+    width: 70%;
+}
+
+.carousel-item img {
+    height: 960px !important;
+}
+
+.carousel-indicators button {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+
+.second-part {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form-content {
+    margin-top: 240px;
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+.registration-form-content {
+    margin-top: 50px;
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+
+.form-text {
+    text-align: center;
+}
+
+.form-login-lable {
+    color: #414141 !important;
+}
+
+.forgotpassword-form-label {
+    color: #414141 !important;
+    margin-top: 20px;
+}
+
+.submit-btn {
+    width: 100%;
+    border: 2px solid #F88634 !important;
+    background: none !important;
+    color: #F88634;
+    border-radius: 24px;
+}
+
+    .submit-btn:hover {
+        border: 2px solid #F88634 !important;
+        background-color: #F88634 !important;
+        color: white;
+    }
+
+.forgot-password {
+    margin-top: 18px;
+    text-align: center;
+}
+
+
+.forgot-password-reg {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.login {
+    margin-top: 14px;
+    text-align: center;
+}
+
+.privacy {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+    .privacy a {
+        color: #414141;
+        font-size: 18px;
+        text-decoration: none;
+    }
+
+.privacy-reg a {
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.create-account {
+    margin-top: 14px;
+    text-align: center;
+    color: #414141;
+    font-size: 18px;
+}
+
+    .create-account a {
+        text-decoration: none;
+    }
+
+.create-account-reg a {
+    text-decoration: none;
+}
+
+.forgot-password a {
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.forgot-password-reg a {
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.login a {
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.main-text {
+    font-size: 32px;
+}
+
+.secondary-text {
+    font-size: 18px;
+}
+
+.privacy-reg {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.create-account-reg {
+    margin-top: 5px;
+    text-align: center;
+    color: #414141;
+    font-size: 18px;
+}
+
+.header-user-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.landing-header {
+    display: flex;
+}
+
+.left-side {
+    display: flex;
+}
+
+.right-side {
+    display: flex;
+}
+
+.input-field {
+    border: none;
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.burger-logo {
+    display: none;
+}
+
+.mobile-notification {
+    background:none;
+    border:none;
+    margin-right: 10px;
+}
+
+.mobile-search {
+    display: none;
+}
+
+.img-filter {
+    display: none;
+}
+
+.custom-mobile-search-offcanvas {
+    display: none;
+}
+
+
+.footer {
+    background-color: rgb(247, 245, 243);
+}
+
+.card-footer {
+    background: none !important;
+}
+
+.card-footer button {
+        padding: 10px 32px;
+        border: 2px solid orange;
+        background: none;
+        color: #F88634;
+        border-radius: 30px;
+    }
+
+.card-button {
+    background: none !important;
+}
+
+    .card-button button {
+        padding: 10px 32px;
+        border: 2px solid orange;
+        background: none;
+        color: #F88634;
+        border-radius: 30px;
+    }
+
+.mission-organization {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mission-like {
+    position: absolute;
+    margin-right: 0px;
+    margin-left: 88%;
+    margin-top: 35%
+}
+
+    .mission-like button {
+        padding: 5px 5px;
+        border-radius: 50%;
+        border: none;
+        color: white transparent !important;
+        background: #131212;
+        background-color: black transparent;
+    }
+
+.mission-location {
+    position: absolute;
+    width: 86px;
+    margin-top: 3%;
+    padding: 5px 5px;
+    border-radius: 50px;
+    border: none;
+    background: #131212;
+    background-color: black transparent;
+    color: white;
+}
+
+.mission-theme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .mission-theme p {
+        border: none;
+        position: absolute;
+        color: black;
+        background: white;
+        border-radius: 15px;
+        padding: 5px 15px;
+        margin-top: 16px;
+    }
+
+    .mission-theme span {
+        border: 1px solid rgb(197, 193, 193);
+        position: absolute;
+        color: rgb(20, 20, 20);
+        background: white;
+        border-radius: 20px;
+        padding: 5px 15px;
+    }
+
+.mission-seat {
+    display: flex;
+    position: absolute;
+    margin-right: 0px;
+    margin-left: 88%;
+    margin-top: 48%;
+}
+
+    .mission-seat button {
+        /* border: 2px solid rgb(121, 119, 119); */
+        padding: 5px 5px;
+        border-radius: 50%;
+        border: none;
+        /* background-color: #f11212 transparent !important; */
+        color: white transparent !important;
+        background: #131212;
+        background-color: black transparent;
+    }
+
+.home-upper-content {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.home-upper-content-left p {
+    font-size: 25px;
+}
+
+.home-upper-content-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-custom {
+    height: 25px;
+}
+
+.selected {
+    border: none;
+    border-radius: 40px;
+    padding: 10px 10px;
+    background-color: #dad6d6;
+}
+
+
+
+.col-custom-home {
+    margin-right: 10px;
+    /* border: 2px solid rgb(116, 114, 114); */
+    padding: 5px 10px;
+    /* border-radius: 5px; */
+}
+
+/* .abc{
+        display: flex;
+        justify-content: space-between;
+      } */
+
+.mission-type span {
+    /* display: inline; */
+    border: 1px solid rgb(173, 171, 171);
+    padding: 2px;
+    /* border-left:1px solid black;
+        border-right:1px solid black; */
+    border-radius: 20px;
+}
+
+.mission-type {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    display: block;
+    color: #414141;
+    width: 30%;
+    height: 2px;
+    background: rgb(173, 171, 171);
+    position: relative;
+    /* margin-top: 50% !important; */
+    /* top: 50%; */
+}
+
+.seats-left img {
+    height: 30px;
+}
+
+.dead-line img {
+    height: 40px;
+}
+
+.mission-seat-list {
+    display: flex;
+    /* justify-content: ; */
+    position: absolute;
+    /* align-self: flex-end; */
+    margin-right: 0px;
+    /* margin-left: 88%;
+    margin-top: 48% */
+    /* margin-left: 30%; */
+    margin-top: 17%;
+    /* right: 0;
+    top : 30%     */
+    width : 0% !important;
+    margin-left : 29%;
+}
+
+    .mission-seat-list button {
+        /* border: 2px solid rgb(121, 119, 119); */
+        padding: 5px 5px;
+        border-radius: 50%;
+        border: none;
+        /* background-color: #f11212 transparent !important; */
+        color: white transparent !important;
+        background: #131212;
+        background-color: black transparent;
+    }
+
+.mission-location-list {
+    position: absolute;
+    width: 86px;
+    /* align-self: flex-end; */
+    /* margin-right: 0px; */
+    /* margin-left: 77%; */
+    margin-top: 0%;
+    /* border: 2px solid rgb(121, 119, 119); */
+    padding: 5px 5px;
+    border-radius: 50px;
+    border: none;
+    /* background-color: #f11212 transparent !important; */
+    /* color: white transparent !important; */
+    background: #131212;
+    background-color: black transparent;
+    color: white;
+}
+
+.mission-like-list {
+    position: absolute;
+    /* align-self: flex-end; */
+    /* display: flex; */
+    /* margin-left: 30%; */
+    margin-top: 13%;
+    width : 0% !important;
+    margin-left : 29%;
+}
+
+    .mission-like-list button {
+        /* position: absolute; */
+        /* border: 2px solid rgb(121, 119, 119); */
+        padding: 5px 5px;
+        border-radius: 50%;
+        border: none;
+        /* background-color: #f11212 transparent !important; */
+        color: white transparent !important;
+        background: #131212;
+        background-color: black transparent;
+    }
+
+
+    .hide{
+        display:none;
+    }
+
+
+    .not-selected{
+        border:none;
+        background:none;
+    }
+
+.relatedmission h1 {
+    color: #414141;
+}
+
+.volunteer-img{
+    display:flex;
+    justify-content:space-around;
+}
+
+.volunteer-img img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+    .volunteer-img p {
+        font-size: 13px;
+        color: #414141
+    }
+
+    .volunteer-rec{
+        display:flex;
+        justify-content:space-between;
+        margin-top : 4px;
+        align-items : center;
+    }
+
+    .volunteer-rec-img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+    }
+
+    .volunteer-rec p {
+        font-size: 20px;
+        color: #414141;
+        margin-bottom : 0px;
+    }
+
+.mission-btn {
+    width: 250px;
+    height: 40px;
+    border: 2px solid #757575;
+    border-radius: 25px;
+    font-size: 13px;
+}
+
+.mission-btn-group {
+    display: flex;
+    justify-content: space-around;
+}
+
+.vol-card{
+    height:130px !important;
+}
+
+.main-img{
+    height:570px !important;
+    width:693px !important;
+}
+
+.card-footer-vol button {
+    padding: 17px 60px;
+    border: 2px solid orange;
+    background: none;
+    color: #F88634;
+    border-radius: 30px;
+}
+
+.mission-info {
+    width: 22% !important;
+    height: 130px;
+    border: 1px solid #E8E8E8;
+    border-radius: 3px;
+    padding: 16px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.info-img {
+    width: 20px;
+}
+
+.info-type {
+    font-size: 13px;
+    margin-bottom: 0px;
+    color: #979797;
+}
+
+.info {
+    font-size: 15px;
+    color: #414141;
+    margin-bottom: 0px;
+}
+
+#main-img {
+    height:500px;
+}
+
+.bg-red{
+    background:red;
+    color : white;
+    border:none;
+}
+
+.active-link {
+    color: black !important;
+    font-weight: 600 !important;
+    border-bottom: 6px solid black !important;
+}
+
+.link-text{
+    color: black;
+    text-decoration:none;
+}
+
+.btn-general{
+    background:none;
+    padding:10px 20px;
+    border-radius:30px;
+}
+
+.commenters{
+    margin-bottom:0px;
+    font-weight : 600;
+}
+
+.comment-btn {
+    padding: 10px 32px;
+    border: 2px solid orange;
+    background: none;
+    color: #F88634;
+    border-radius: 30px;
+}
+
+.all-comments {
+    background-color: rgb(60 55 55 / 19%);
+    padding: 10px;
+}
+
+.comment-box{
+    height: 385px;
+}
+
+@media screen and (max-width : 1399px) 
+{
+    .comment-box{
+        height : 458px !important;
+    }
+}
+
+
+@media screen and (max-width : 1199px) {
+
+    .comment-box {
+        height: 506px;
+    }
+
+
+    .mission-like-list {
+        margin-top: 18% !important;
+    }
+
+    .mission-seat-list {
+        margin-top: 24% !important;
+    }
+
+    .card-button button img {
+        display: none;
+    }
+}
+
+
+
+@media screen and (max-width: 1000px) {
+    .main-container {
+        display: block;
+    }
+
+    .slide-content {
+        width: 100%;
+    }
+
+    .carousel-item img {
+        height: 100% !important;
+    }
+
+    .form-content {
+        margin-top: 20px;
+        width: 50%;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .second-part {
+        align-items: center;
+        width: 100%;
+    }
+
+    .privacy {
+        margin-bottom: 20px !important;
+        text-align: center;
+    }
+
+    a {
+        font-size: 16px;
+    }
+
+    .secondary-heading {
+        display: none;
+    }
+
+
+    .create-account-reg {
+        font-size: 16px !important;
+    }
+
+    .main-text {
+        font-size: 25px;
+    }
+
+    .secondary-text {
+        font-size: 15px;
+    }
+
+    .home-logo {
+        display: none;
+    }
+
+    .user-img-text {
+        display: none !important;
+    }
+
+    .custom-burger {
+        border: none;
+    }
+
+    .burger-logo {
+        display: block;
+        margin-left: 5px;
+        height: 25px;
+    }
+
+    .mobile-notification {
+        display: block;
+        margin-right: 10px;
+        height: 25px;
+        /* text-align: center !important; */
+    }
+
+    .mobile-search {
+        display: block;
+        margin-right: 10px;
+        height: 25px;
+        border: none;
+        background: none;
+    }
+
+    .custom-mobile-search-offcanvas {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 991px){
+    #grid-btn{
+        display:none;
+    }
+
+    .comment-box {
+        height: 375px;
+    }
+
+    .mission-like {
+        margin-left: 92%;
+        margin-top: 45%;
+    }
+
+    .mission-seat {
+        margin-left: 92%;
+        margin-top: 52%;
+    }
+
+    #list-btn {
+        display: none;
+    }
+
+    #main-img {
+        height:auto;
+    }
+
+    .mission-info{
+        margin-right:0px;
+    }
+
+    .content-tab{
+        text-align : justify;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .col-custom {
+        display: none;
+    }
+
+    .mission-like {
+        margin-left: 92%;
+        margin-top: 40%;
+    }
+
+    .mission-seat {
+        margin-left: 92%;
+        margin-top: 50%;
+    }
+
+    .img-filter {
+        display: inline;
+        background: none;
+        border: none;
+    }
+
+    .col-custom-offcanvas {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 575px) 
+{
+    .mission-info {
+        width: 90% !important;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .mission-btn-group {
+        display: block;
+        text-align: center;
+    }
+
+    .pdf-btn{
+        flex-direction : column;
+        
+    }
+
+    .pdf-btn button{
+        margin-bottom:5px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .mission-like {
+        margin-left: 89%;
+        margin-top: 40%;
+    }
+
+    .mission-seat {
+        margin-left: 89%;
+        margin-top: 50%;
+    }
+}
+@media screen and (max-width: 430px) {
+    .input-field {
+        width: 75% !important;
+    }
+
+    .home-upper-content-left p {
+        font-size: 20px;
+    }
+
+    .mission-like {
+        margin-left: 88%;
+        margin-top: 34%;
+    }
+
+    .mission-seat {
+        margin-left: 88%;
+        margin-top: 46%;
+    }
+}
+
+

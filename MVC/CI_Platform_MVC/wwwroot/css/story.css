@@ -1,0 +1,48 @@
+﻿.story-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    background: url(../Images/Grow-Trees-On-the-path-to-environment-sustainability-1.png) 0% 0% no-repeat padding-box;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color : rgba(0,0,0,0.7);
+    color:white;
+    /*background-blend-mode : overlay;*/
+}
+
+.story-btn{
+    background:none;
+    padding: 16px 30px;
+    border : 2px solid white;
+    border-radius : 30px;
+    color : white;
+}
+
+
+/*for try*/
+
+.story-card-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: url(../Images/Grow-Trees-On-the-path-to-environment-sustainability-1.png) 0% 0% no-repeat padding-box;
+    background-size: cover;
+}
+
+.card-btn {
+    opacity:0;
+}
+
+.story-card-img:hover {
+    background-blend-mode: darken;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.story-card-img:hover .card-btn {
+    opacity:1;
+}
+
+
+

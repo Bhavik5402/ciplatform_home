@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="./CSS/login.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+
+            <div style="display: flex;">
+
+                <button class="navbar-toggler custom-burger" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvasExample" aria-controls="offcanvasExample" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon-custom"><img src="./Images/list.png" alt="list"></span>
+                </button>
+                <img src="./Images/logo.png" alt="" class="burger-logo">
+            </div>
+            <a class="navbar-brand home-logo" href="#"><img src="./Images/logo.png" alt=""></a>
+
+
+            <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample">
+                <div class="flex-row-reverse offcanvas-header">
+                    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                        aria-label="Close"></button>
+                </div>
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 offcanvas-body">
+                    <li class="nav-item">
+                        <a class="nav-link active " aria-current="page" href="#">Stories</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Policy
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+            <div style="display: flex; align-items: center; justify-content: center;">
+
+                <button class="mobile-search" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop"
+                    aria-controls="offcanvasTop"><img src="./Images/search.png" alt=""></button>
+                <div class="offcanvas offcanvas-top custom-mobile-search-offcanvas" tabindex="-1" id="offcanvasTop"
+                    aria-labelledby="offcanvasTopLabel" style="height: fit-content !important;">
+
+                    <div class="offcanvas-body">
+                        <form class="d-flex">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+                <img src="./Images/notification-icon.svg" alt="" class="mobile-notification">
+                <div class="dropdown">
+
+                    <img class="header-user-img dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                        src="./Images/user-img.png" alt="User Image">
+
+                    <a class="nav-link dropdown user-img-text d-inline" href="#" id="" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        <span style="margin-left: 5px;">Evan Donohue</span><img src="./Images/drop-down.png" alt=""
+                            style="margin-left: 5px;">
+                    </a>
+                    <ul class="dropdown-menu user-dropdown-custom dropdown-menu-end" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </nav>
+    <div class=" shadow p-3 mb-5 bg-body rounded">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12 border-end">
+
+                    <img src="./Images/search.png" alt="">
+                    <input class="input-field " type="search" placeholder="Search mission...">
+
+                    <button class="img-filter" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample1"
+                        aria-controls="offcanvasExample"><img src="./Images/filter.png" alt=""></button>
+
+
+                </div>
+
+
+                <div class="col-2 border-end col-custom">
+
+                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Country <img src="./Images/drop-down.png" alt="">
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+
+                    </ul>
+
+
+
+
+
+
+                </div>
+                <div class="col-2 border-end col-custom">
+
+                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        City <img src="./Images/drop-down.png" alt="">
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+
+
+                </div>
+                <div class="col-2 border-end col-custom">
+
+                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Themes <img src="./Images/drop-down.png" alt="">
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+
+
+                </div>
+                <div class="col-2 border-end col-custom">
+
+                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Skills <img src="./Images/drop-down.png" alt="">
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+
+
+                </div>
+
+
+
+                <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample1"
+                    aria-labelledby="offcanvasExampleLabel">
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Clear All</h5>
+                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                            aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <div class="col-sm-12 border-end col-custom-offcanvas">
+
+
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseOne" aria-expanded="true"
+                                            aria-controls="collapseOne">
+                                            Country
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse show"
+                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckDefault">
+                                                <label class="form-check-label" for="flexCheckDefault">
+                                                    Default checkbox
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckChecked" checked>
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Checked checkbox
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                            aria-expanded="false" aria-controls="collapseTwo">
+                                            City
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse"
+                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckDefault">
+                                                <label class="form-check-label" for="flexCheckDefault">
+                                                    Default checkbox
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckChecked" checked>
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Checked checkbox
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                            aria-expanded="false" aria-controls="collapseThree">
+                                            Themes
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse"
+                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckDefault">
+                                                <label class="form-check-label" for="flexCheckDefault">
+                                                    Default checkbox
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckChecked" checked>
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Checked checkbox
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingFour">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                            aria-expanded="false" aria-controls="collapseFour">
+                                            Skills
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse"
+                                        aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckDefault">
+                                                <label class="form-check-label" for="flexCheckDefault">
+                                                    Default checkbox
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value=""
+                                                    id="flexCheckChecked" checked>
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Checked checkbox
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mb-3">
+        <div class="home-upper-content">
+            <div class="home-upper-content-left">
+                <p>Explore <strong>72 missions</strong></p>
+            </div>
+            <div class="home-upper-content-right">
+                <div class="col-custom-home">
+
+                    <select class="form-select" aria-label="Default select example">
+                        <option selected>Name</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                    </select>
+
+
+
+
+
+                </div>
+                <div>
+                    <button class="grid-btn"><img src="./Images/grid.png" alt="" class="img-custom"></button>
+                    <button class="list-btn"><img src="./Images/list.png" alt="" class="img-custom"></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-3  g-4">
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    
+                    <img src="./Images/Animal-welfare-&-save-birds-campaign-1.png" class="card-img-top" alt="...">
+
+                    <div class="mission-location " >
+                        <img src="./Images/pin.png" alt="" style="margin-right: 5px;"><span>London</span>
+                    </div>
+
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+
+
+                    <div class="mission-like">
+
+                        <button><img src="./Images/heart.png" alt=""></button>
+                    </div>
+                    <div class="mission-seat">
+
+                        <button><img src="./Images/user.png" alt=""></button>
+                    </div>
+                    <div class="card-body border-bottom">
+                        <h5 class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. !</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                        <div class="mission-organization">
+                            <div>
+                                <p>Tree Canada</p>
+                            </div>
+                            <div>
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/selected-star.png" alt="">
+                                <img src="./Images/star.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mission-theme">
+                        <span>
+                            Ongoing Opportunity
+                        </span>
+                    </div>
+                    <div class="timestamp row card-body mt-4">
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/Seats-left.png" alt="">
+                            <div class="p-1 ">
+                                <p class="mb-0" style="font-size: 20px;"><strong>10</strong></p>
+                                <p class="mb-0">Seats-left</p>
+                            </div>
+                        </div>
+                        <div class="seats-left col d-inline-flex align-items-center">
+                            <img src="./Images/deadline.png" alt="">
+                            <div class="p-1">
+                                <p class="mb-0" style="font-size: 20px;"><strong>09/01/2019</strong></p>
+                                <p class="mb-0">Deadline</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <button>Apply <span><img src="./Images/right-arrow.png" alt=""></span></button>
+                    </div>
+                </div>
+            </div>
+            
+
+
+        </div>
+    </div>
+
+
+    <!-- <footer class="text-muted py-5 footer d-flex justify-content-end">
+        <div class="container">
+          <p class="float-start">
+            <a href="#">Privacy Policy</a>
+          </p>
+
+        </div>
+      </footer> -->
+
+
+
+
+
+    <script src="./JS/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

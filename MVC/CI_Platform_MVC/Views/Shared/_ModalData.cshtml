@@ -1,0 +1,31 @@
+﻿<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                        <div class="modal-content" style="height : 550px">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Recommend to a Co-Worker</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                    aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container">
+                                    @for (var i = 0; i < 10; i++) { <div class="volunteer-rec">
+                                        <div>
+                                            <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
+                                            <p class="d-inline ms-1">AndrewJohnson</p>
+                                        </div>
+
+                                        <button type="button" class="btn btn-primary rec-btn"><img
+                                                src="~/Images/user.png" alt="">Recommend</button>
+                                </div>
+                                }
+                            </div>
+                            
+                    </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                        </div>
+           </div>
+</div>
+</div>

@@ -1,0 +1,1397 @@
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.runtimeconfig.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.dll
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.pdb
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.AssemblyReference.cache
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfoInputs.cache
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfo.cs
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CoreCompileInputs.cache
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cache
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cs
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\bundle\CI_Platform_MVC.styles.css
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\projectbundle\CI_Platform_MVC.bundle.scp.css
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.dll
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
+D:\Projects\CI-Platform\CI_Platform_MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.AssemblyReference.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfoInputs.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfo.cs
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CoreCompileInputs.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cs
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.runtimeconfig.json
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.pdb
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\bundle\CI_Platform_MVC.styles.css
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\projectbundle\CI_Platform_MVC.bundle.scp.css
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\refint\CI_Platform_MVC.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Humanizer.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CopyComplete
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.runtimeconfig.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.pdb
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Humanizer.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.AssemblyReference.cache
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfoInputs.cache
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfo.cs
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CoreCompileInputs.cache
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cache
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cs
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\bundle\CI_Platform_MVC.styles.css
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\projectbundle\CI_Platform_MVC.bundle.scp.css
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CopyComplete
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.runtimeconfig.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.pdb
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Humanizer.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.AssemblyReference.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfoInputs.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfo.cs
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CoreCompileInputs.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cs
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\bundle\CI_Platform_MVC.styles.css
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\projectbundle\CI_Platform_MVC.bundle.scp.css
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CopyComplete
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\refint\CI_Platform_MVC.dll
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
+D:\CI Platform\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.runtimeconfig.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.pdb
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Humanizer.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.AssemblyReference.cache
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfoInputs.cache
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfo.cs
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CoreCompileInputs.cache
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cache
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cs
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\bundle\CI_Platform_MVC.styles.css
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\projectbundle\CI_Platform_MVC.bundle.scp.css
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CopyComplete
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\refint\CI_Platform_MVC.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.runtimeconfig.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.pdb
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Humanizer.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.AssemblyReference.cache
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfoInputs.cache
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.AssemblyInfo.cs
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CoreCompileInputs.cache
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cache
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.RazorAssemblyInfo.cs
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\bundle\CI_Platform_MVC.styles.css
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\scopedcss\projectbundle\CI_Platform_MVC.bundle.scp.css
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.csproj.CopyComplete
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
+D:\Bhavik\CI-Platform\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Entity.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.dll
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Entity.pdb
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Entity.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Entity.pdb
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
+D:\xyz\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

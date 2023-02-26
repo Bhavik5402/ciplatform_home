@@ -1,0 +1,33 @@
+
+.registration-form-content{
+    margin-top: 50px;
+    /* width: 350px; */
+    /* text-align: center; */
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+label{
+    color: #414141 !important;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1000px){
+    
+    .secondary-heading{
+        display: none;
+    }
+    .create-account{
+        font-size: 16px !important;
+    }
+
+    
+
+}

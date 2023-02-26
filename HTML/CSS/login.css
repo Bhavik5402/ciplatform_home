@@ -1,0 +1,509 @@
+.main-container{
+    display: flex;
+}
+
+.slide-content{
+    width: 70%;
+    /* width: 1050px; */
+    /* height: 728px; */
+}
+
+.carousel-item img{
+    height: 960px !important;
+}
+
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+} 
+
+.second-part{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+.form-content{
+    margin-top: 240px;
+    /* width: 350px; */
+    /* text-align: center; */
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+.registration-form-content{
+    margin-top: 50px;
+    /* width: 350px; */
+    /* text-align: center; */
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+
+.form-text{
+    
+    text-align: center;
+}
+
+.form-login-lable{
+    color: #414141 !important;
+}
+
+.forgotpassword-form-label{
+    color: #414141 !important;
+    margin-top: 20px;
+}
+
+.submit-btn{
+    width: 100%;
+    border: 2px solid #F88634 !important;
+    background: none !important;
+    color: #F88634;
+    border-radius: 24px;
+}
+
+.submit-btn:hover{
+    
+    border: 2px solid #F88634 !important;
+    background-color:#F88634 !important;
+    color: white;
+    
+}
+.forgot-password{
+    margin-top: 18px;
+    text-align: center;
+}
+
+
+.forgot-password-reg{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.login{
+    margin-top: 14px;
+    text-align: center;
+}
+
+.privacy{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.privacy a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+.privacy-reg a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+}
+.create-account{
+    margin-top: 14px;
+    text-align: center;
+    color: #414141;
+    font-size: 18px;
+}
+.create-account a{
+    text-decoration: none;
+}
+.create-account-reg a{
+    text-decoration: none;
+}
+
+.forgot-password a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.forgot-password-reg a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+.login a{
+    color: #414141;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+.main-text{
+    font-size: 32px;
+}
+
+.secondary-text{
+    font-size: 18px;
+}
+
+.privacy-reg{
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.create-account-reg{
+    margin-top: 5px;
+    text-align: center;
+    color: #414141;
+    font-size: 18px;
+}
+
+.header-user-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.landing-header{
+    display: flex;
+}
+
+.left-side{
+    display: flex;
+}
+.right-side{
+    display: flex;
+}
+
+.input-field{
+    border: none;
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+}
+.burger-logo{
+    display: none;
+}
+
+.mobile-notification{
+    margin-right: 10px;
+ } 
+.mobile-search{
+    display: none;
+}
+.img-filter{
+    display: none;
+}
+/* .user-dropdown-custom{
+    right:inherit !important;
+} */
+.custom-mobile-search-offcanvas{
+    display: none;
+}
+
+
+    .footer {
+        /* border-top: 1px solid rgb(158, 155, 155); */
+        /* margin-top: 10px; */
+        background-color: rgb(247, 245, 243);
+        /* bottom: 0 !important; */
+        
+      }
+
+      .card-footer{
+        background : none !important;
+      }
+      .card-footer button{
+        padding: 10px 32px;
+        border: 2px solid orange;
+        background: none;
+        color: #F88634;
+        border-radius: 30px;
+        
+      }
+
+
+      .card-button{
+        background : none !important;
+      }
+      .card-button button{
+        padding: 10px 32px;
+        border: 2px solid orange;
+        background: none;
+        color: #F88634;
+        border-radius: 30px;
+        
+      }
+
+      .mission-organization{
+        display: flex;
+        justify-content:space-between;
+      }
+      .mission-like{
+        position: absolute;
+
+            /* align-self: flex-end; */
+    margin-right: 0px;
+    margin-left: 88%;
+    margin-top: 35%
+        
+      }
+
+
+
+      .mission-like button{
+        
+        /* border: 2px solid rgb(121, 119, 119); */
+        padding: 5px 5px;
+        border-radius: 50%;
+        border: none;
+        /* background-color: #f11212 transparent !important; */
+        color: white transparent !important;
+        background: #131212;
+            background-color: black transparent;
+        
+      }
+      .mission-location{
+        position: absolute;
+        width: 86px;
+            /* align-self: flex-end; */
+    /* margin-right: 0px; */
+    /* margin-left: 77%; */
+    margin-top: 3%;
+    
+        /* border: 2px solid rgb(121, 119, 119); */
+        padding: 5px 5px;
+        border-radius: 50px;
+        border: none;
+        /* background-color: #f11212 transparent !important; */
+        /* color: white transparent !important; */
+        background: #131212;
+            background-color: black transparent;
+            color: white;
+        
+      }
+      .mission-theme{
+        /* position: absolute; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .mission-theme p{
+        /* border: 1px solid rgb(179, 173, 173); */
+        border: none;
+        position: absolute;
+        color: black;
+        background: white;
+        border-radius: 15px;
+        padding: 5px 15px;
+        margin-top: 16px;
+      }
+      .mission-theme span{
+        /* border: 1px solid rgb(179, 173, 173); */
+        border: 1px solid rgb(197, 193, 193);
+        position: absolute;
+        color: rgb(20, 20, 20);
+        background: white;
+        border-radius: 20px;
+        padding: 5px 15px;
+      }
+      
+      .mission-seat{
+        display: flex;
+        /* justify-content: ; */
+        position: absolute;
+
+            /* align-self: flex-end; */
+    margin-right: 0px; 
+    margin-left: 88%;
+    margin-top: 48%
+    /* right: 0;
+    top : 30%     */
+  }
+      .mission-seat button{
+
+        /* border: 2px solid rgb(121, 119, 119); */
+        padding: 5px 5px;
+        border-radius: 50%;
+        border: none;
+        /* background-color: #f11212 transparent !important; */
+        color: white transparent !important;
+        background: #131212;
+            background-color: black transparent;
+            
+      }
+
+      .home-upper-content{
+        display: flex;
+        justify-content: space-between;
+        /* align-items: center; */
+      }
+    
+      .home-upper-content-left p{
+        font-size: 25px;
+      }
+      .home-upper-content-right{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .img-custom{
+        height: 25px;
+      }
+
+      .grid-btn{
+        border: none;
+        border-radius: 40px;
+        padding : 10px 10px;
+        background-color: #dad6d6;
+      }
+    
+      .list-btn{
+        border: none;
+
+        background: none;
+      }
+      .col-custom-home{
+        margin-right: 10px;
+        /* border: 2px solid rgb(116, 114, 114); */
+        padding :5px 10px;
+        /* border-radius: 5px; */
+      }
+
+      /* .abc{
+        display: flex;
+        justify-content: space-between;
+      } */
+
+      .mission-type span{
+        /* display: inline; */
+        border: 1px solid rgb(173, 171, 171);
+        padding: 2px; 
+        /* border-left:1px solid black;
+        border-right:1px solid black; */
+        border-radius: 20px;
+      }
+
+      .mission-type{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .line{
+        display: block;
+        color: #414141;
+        width: 30%;
+        height: 2px;
+        background: rgb(173, 171, 171);
+        position: relative;
+        /* margin-top: 50% !important; */
+        /* top: 50%; */
+      }
+      
+      .seats-left img{
+        height: 30px;
+      }
+      
+      .dead-line img{
+        height: 40px;
+      }
+
+
+
+@media screen and (max-width: 1000px){
+    .main-container{
+        display: block;
+    }
+    .slide-content{
+        width: 100%;
+
+    }
+    .carousel-item img{
+        height: 100% !important;
+    }
+
+    .form-content{
+        margin-top: 20px;
+        width: 50% ; 
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    .second-part{
+        align-items: center;
+        width: 100%;
+    }
+    .privacy{
+        margin-bottom: 20px !important;
+        text-align: center;
+    }
+    a{
+        font-size: 16px;
+    }
+    .secondary-heading{
+        display: none;
+    }
+
+    
+    .create-account-reg{
+        font-size: 16px !important;
+    }
+
+    .main-text{
+        font-size: 25px;
+    }
+    .secondary-text{
+        font-size: 15px;
+    }
+
+    .home-logo{
+        display: none;
+    }
+
+    .user-img-text{
+        display: none !important;
+    }
+    .custom-burger{
+        border: none;
+    }
+    .burger-logo{
+        display: block;
+        margin-left: 5px;
+        height: 25px;
+    }
+    .mobile-notification{
+        display: block;
+        margin-right: 10px;
+        height: 25px;
+        /* text-align: center !important; */
+    }
+    .mobile-search{
+        display: block;
+        margin-right: 10px;
+        height: 25px;
+        border: none;
+        background: none;
+    }
+    .custom-mobile-search-offcanvas{
+        display: block;
+    }
+
+
+}
+
+@media screen and (max-width: 769px){
+    .col-custom{
+        display: none;
+    }
+    .img-filter{
+        display:inline;
+        background: none;
+        border: none;
+    }
+
+    .col-custom-offcanvas{
+        margin-top: 10px;
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 430px){
+  .input-field{
+    width: 75% !important;
+  }
+}

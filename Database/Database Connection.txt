@@ -1,0 +1,1 @@
+Databse Connection = Scaffold-Dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Data Source=PCA60\SQL2017;DataBase=CI_Platform;User ID=sa;Password=tatva123;Trusted_Connection=True;Encrypt=False;Integrated Security=False;" -OutputDir "Models" -ContextDir "Data"

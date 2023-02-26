@@ -1,0 +1,75 @@
+﻿@{
+    Layout = "_LayoutLandingPage";
+}
+@{
+    ViewData["Title"] = "StoryListingPage";
+}
+
+<div class=" shadow p-3 mb-3 bg-body rounded">
+    <div class="container">
+        <partial name = "_header" />
+    </div>
+</div>
+
+<div>
+    <div class="story-header">
+        <div class="container text-center">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, eveniet quod corporis tenetur harum rerum nesciunt voluptatibus et impedit dignissimos fugiat eos accusamus hic? Laboriosam dolorem rem similique ad consequatur.</p>
+            <Button class="story-btn">Share Your Story <i class="bi bi-arrow-right arrow-btn"></i></Button>
+        </div>
+        
+    </div>
+</div>
+
+<div class="container mt-3">
+    <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3  g-4" id="list"> 
+        @for (var i = 0; i < 9; i++)
+        {
+              <div class="col mission-list">
+                <div class="card h-100 img-hover">
+
+                    
+                    <div class="story-card-img">
+                        <Button class="story-btn card-btn">View Details <i class="bi bi-arrow-right"></i></Button>
+                    </div>
+                    
+                    <div class="mission-theme">
+                        <p>Environment</p>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">tree planting</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                            additional content. This content is a little bit longer.</p>
+                    </div>
+                    <div class="p-3">
+                        <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
+                        <p class="d-inline ms-1">AndrewJohnson</p>
+                    </div>
+                </div>
+            </div>
+        }
+
+
+    </div>
+
+
+    <nav aria-label="Page navigation example">
+        <ul class="pagination d-flex justify-content-center mt-3">
+            <li class="page-item">
+                <a class="page-link" href="#" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item">
+                <a class="page-link" href="#" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+</div>
+
