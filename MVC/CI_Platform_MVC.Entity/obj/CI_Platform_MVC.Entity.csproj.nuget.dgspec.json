@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {}
+    "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {}
   },
   "projects": {
-    "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
+    "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
+        "projectUniqueName": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
         "projectName": "CI_Platform_MVC.Entity",
-        "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
+        "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
         "packagesPath": "C:\\Users\\Bhavik\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\obj\\",
+        "outputPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bhavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.3, )"

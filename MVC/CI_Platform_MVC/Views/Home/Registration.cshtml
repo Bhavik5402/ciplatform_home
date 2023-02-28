@@ -1,9 +1,10 @@
-﻿@model CI_Platform_MVC.Models.User
-
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
 
 @{
     ViewData["Title"] = "Registration";
 }
+
+@model RegisterVM
 
 <div class="main-container">
         <div id="carouselExampleCaptions" class="carousel slide slide-content" data-bs-ride="carousel">
@@ -54,43 +55,45 @@
               <span class="visually-hidden">Next</span>
             </button>
         </div>
+        <partial name="_AddNotification" />
         <div class="second-part">
             <div class="registration-form-content">
-
+                
                 <form method="post">
                     <div class="mb-3">
-                      <label asp-for="FirstName" class="form-label">First Name</label>
-                      <input type="text" class="form-control" id="1" aria-describedby="emailHelp" asp-for="FirstName">
+                      <label asp-for="User.FirstName" class="form-label">First Name</label>
+                      <input asp-for="User.FirstName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                      <span asp-validation-for="User.FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                      <label asp-for="User.LastName" class="form-label">Last Name</label>
+                      <input asp-for="User.LastName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                       
                     </div>
                     <div class="mb-3">
-                      <label asp-for="LastName" class="form-label">Last Name</label>
-                      <input type="text" class="form-control" id="2" aria-describedby="emailHelp"asp-for="LastName">
+                      <label asp-for="User.PhoneNumber" class="form-label">Phone Number</label>
+                      <input asp-for="User.PhoneNumber" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                       
                     </div>
                     <div class="mb-3">
-                      <label asp-for="PhoneNumber" class="form-label">Phone Number</label>
-                      <input type="text" class="form-control" id="3" aria-describedby="emailHelp" asp-for="PhoneNumber">
+                      <label asp-for="User.Email" class="form-label">Email address</label>
+                      <input asp-for="User.Email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                      <span asp-validation-for="User.Email" class="text-danger"></span>
                       
                     </div>
                     <div class="mb-3">
-                      <label asp-for="Email" class="form-label">Email address</label>
-                      <input type="email" class="form-control" id="4" aria-describedby="emailHelp" asp-for="Email">
-                      
+                      <label asp-for="User.Password" class="form-label">Password</label>
+                      <input asp-for="User.Password" type="password" class="form-control" id="password">
                     </div>
                     <div class="mb-3">
-                      <label asp-for="Password" class="form-label">Password</label>
-                      <input type="password" class="form-control" id="5" asp-for="Password">
+                      <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
+                      <input asp-for="ConfirmPassword" type="password" class="form-control" id="c-password">
+                      <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                     </div>
+                                        
+
                     
-                    
-                      @*<div class="mb-3">
-                        <label asp-for="Password" class="form-label">Confirm Password</label>
-                        <input type="password" class="form-control" id="c-password" aria-describedby="emailHelp" asp-for="Password">
-                        <asp:CompareValidator runat="server" id="Numbers" controltovalidate="password" controltocompare="c-password" operator="Equal" errormessage=" The first number should be smaller" />
-                      </div>*@
-                    
-                    <button type="submit" class="btn btn-primary submit-btn">Register</button>
+                    <button type="submit" class="btn submit-btn">Register</button>
                   </form>
                   <div class="forgot-password-reg">
                       <a asp-controller="Home" asp-action="Forgotpassword">Lost your password?</a>

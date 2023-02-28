@@ -1,5 +1,4 @@
-﻿using CI_Platform_MVC.Data;
-//using CI_Platform_MVC.Entity.Data;
+﻿using CI_Platform_MVC.Entity.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CI_Platform_MVC.Controllers

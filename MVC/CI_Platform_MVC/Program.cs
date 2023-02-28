@@ -1,9 +1,14 @@
 
-using CI_Platform_MVC.Data;
-//using CI_Platform_MVC.Entity.Data;
+using CI_Platform_MVC.Entity.Data;
+//using CI_Platform_MVC.Entity.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using SendGrid.Extensions.DependencyInjection;
+using CI_Platform_MVC.Models;
+using CI_Platform_MVC.Reposatory.Interface;
+using CI_Platform_MVC.Reposatory.Repository;
+//using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +16,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<CiPlatformContext>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+builder.Services.Configure<SMTPConfigModel>(builder.Configuration.GetSection("SMTPConfig"));
+//services.Configure<SMTPConfigModel>(_configuration.GetSection("SMTPConfig"));
+//builder.Services.Configure<SMTPConfigModel>(_configuration.GetSection("SMTPConfig"));
 
 
 //JWT TOKEN
@@ -26,6 +36,14 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
         ValidAudience = builder.Configuration["Jwt:Audience"],
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
     };
+});
+
+// Api Key settings
+
+builder.Services.AddSendGrid(options =>
+{
+    options.ApiKey = builder.Configuration
+    .GetSection("SendGridEmailSettings").GetValue<string>("APIKey");
 });
 
 

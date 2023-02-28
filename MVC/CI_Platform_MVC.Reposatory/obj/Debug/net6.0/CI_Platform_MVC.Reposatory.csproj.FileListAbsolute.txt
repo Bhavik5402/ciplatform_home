@@ -32,3 +32,37 @@ D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0
 D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
 D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.genruntimeconfig.cache
 D:\tatvasoft-project\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\ref\CI_Platform_MVC.Reposatory.dll
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.deps.json
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.runtimeconfig.json
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.dll
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\ref\CI_Platform_MVC.Reposatory.dll
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Entity.dll
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Entity.pdb
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.csproj.AssemblyReference.cache
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.AssemblyInfoInputs.cache
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.AssemblyInfo.cs
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.csproj.CoreCompileInputs.cache
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.csproj.CopyComplete
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.dll
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\ref\CI_Platform_MVC.Reposatory.dll
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
+D:\ABC\CI-Platform\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.genruntimeconfig.cache
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.deps.json
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.runtimeconfig.json
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.dll
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Entity.dll
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\bin\Debug\net6.0\CI_Platform_MVC.Entity.pdb
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.csproj.AssemblyReference.cache
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.AssemblyInfoInputs.cache
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.AssemblyInfo.cs
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.csproj.CoreCompileInputs.cache
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.csproj.CopyComplete
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.dll
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\refint\CI_Platform_MVC.Reposatory.dll
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.pdb
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\CI_Platform_MVC.Reposatory.genruntimeconfig.cache
+D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC.Reposatory\obj\Debug\net6.0\ref\CI_Platform_MVC.Reposatory.dll

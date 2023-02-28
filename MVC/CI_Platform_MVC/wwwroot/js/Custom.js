@@ -18,6 +18,16 @@ let removebadge = document.getElementsByClassName("remove-badge");
 
 let navbadge_country = document.getElementById("nav-badge-country");
 
+let passwrod = document.getElementById("password");
+let c_password = document.getElementById("c-password");
+c_password.addEventListener("keyup", confirm_password)
+
+function confirm_password() {
+    if (passwrod.value == c_password.value) {
+        
+    }
+}
+
 
 
 

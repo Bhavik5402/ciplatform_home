@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj": {}
+    "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj": {}
   },
   "projects": {
-    "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
+    "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
+        "projectUniqueName": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
         "projectName": "CI_Platform_MVC.Entity",
-        "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
+        "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj",
         "packagesPath": "C:\\Users\\Bhavik\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\obj\\",
+        "outputPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bhavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -80,14 +84,14 @@
         }
       }
     },
-    "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj": {
+    "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj",
+        "projectUniqueName": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj",
         "projectName": "CI_Platform_MVC.Reposatory",
-        "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj",
+        "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj",
         "packagesPath": "C:\\Users\\Bhavik\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Reposatory\\obj\\",
+        "outputPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bhavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
-                "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj"
+              "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
+                "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj"
               }
             }
           }
@@ -160,14 +164,14 @@
         }
       }
     },
-    "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj": {
+    "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj",
+        "projectUniqueName": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj",
         "projectName": "CI_Platform_MVC",
-        "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj",
+        "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\CI_Platform_MVC.csproj",
         "packagesPath": "C:\\Users\\Bhavik\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\",
+        "outputPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bhavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,11 +188,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
-                "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj"
+              "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj": {
+                "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Entity\\CI_Platform_MVC.Entity.csproj"
               },
-              "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj": {
-                "projectPath": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj"
+              "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj": {
+                "projectPath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj"
               }
             }
           }
@@ -203,6 +207,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.14, )"
@@ -234,6 +242,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.12, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            },
+            "SendGrid.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

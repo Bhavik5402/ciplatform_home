@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LVThPhXa1dPDvIsbz4T5SXzRQuqj78qZbZ4fpRnd4Jk=",
+  "Hash": "noHeb+kU0wJB6s2afJQnsH9KqK7nAP+FIxNvoqXTRZM=",
   "Source": "CI_Platform_MVC",
   "BasePath": "_content/CI_Platform_MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CI_Platform_MVC\\wwwroot",
       "Source": "CI_Platform_MVC",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CI_Platform_MVC.styles.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CI_Platform_MVC.styles.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "CI_Platform_MVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CI_Platform_MVC.styles.css"
+      "OriginalItemSpec": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CI_Platform_MVC.styles.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CI_Platform_MVC.bundle.scp.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CI_Platform_MVC.bundle.scp.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "CI_Platform_MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CI_Platform_MVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CI_Platform_MVC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\forgotpassword.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\forgotpassword.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/forgotpassword.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\forgotpassword.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\login.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\login.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\MultiItemCarousel.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\MultiItemCarousel.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/MultiItemCarousel.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\MultiItemCarousel.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\registration.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\registration.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/registration.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\registration.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\resetpassword.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\resetpassword.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/resetpassword.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\resetpassword.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\css\\story.css",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\css\\story.css",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "css/story.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\story.css"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\favicon.ico",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\404-Page-image.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\404-Page-image.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/404-Page-image.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\404-Page-image.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\achieved.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\achieved.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/achieved.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\achieved.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\add.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\add.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/add.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\add.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\add1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\add1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/add1.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\add1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Already-volunteered.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Already-volunteered.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Already-volunteered.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Already-volunteered.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Animal-welfare-&-save-birds-campaign.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Animal-welfare-&-save-birds-campaign.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Animal-welfare-&-save-birds-campaign.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Animal-welfare-&-save-birds-campaign.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Animal-welfare-&-save-birds-campaign-1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Animal-welfare-&-save-birds-campaign-1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Animal-welfare-&-save-birds-campaign-1.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Animal-welfare-&-save-birds-campaign-1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\arrow.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\arrow.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/arrow.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\arrow.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\bell.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\bell.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/bell.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bell.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\bell-big.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\bell-big.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/bell-big.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bell-big.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\bin.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\bin.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/bin.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bin.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\burger.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\burger.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/burger.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\burger.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\calender.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\calender.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/calender.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\calender.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\cancel.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\cancel.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/cancel.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cancel.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\cancel1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\cancel1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/cancel1.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cancel1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\checked.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\checked.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/checked.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\checked.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\cross.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\cross.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/cross.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cross.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\deadline.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\deadline.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/deadline.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\deadline.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\doc.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\doc.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/doc.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\doc.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\down.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\down.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/down.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\down.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\drag-and-drop.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\drag-and-drop.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/drag-and-drop.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\drag-and-drop.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\drop-down.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\drop-down.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/drop-down.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\drop-down.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Education-Supplies-for-Every--Pair-of-Shoes-Sold.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\eye.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\eye.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/eye.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\eye.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\facebook.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\facebook.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/facebook.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\facebook.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\filter.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\filter.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/filter.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\filter.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\gift.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\gift.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/gift.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\gift.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\graph.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\graph.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/graph.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\graph.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\grid.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\grid.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/grid.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\grid.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability-1.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability-2.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-3.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-3.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability-3.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-3.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-4.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-4.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability-4.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-4.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-5.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-5.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability-5.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-5.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Grow-Trees-On-the-path-to-environment-sustainability-login.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heart.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heart.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/heart.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\heart.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heart1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heart1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/heart1.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\heart1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heartred.jpg",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heartred.jpg",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/heartred.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\heartred.jpg"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heartred.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\heartred.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/heartred.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\heartred.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\hours.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\hours.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/hours.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hours.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\image.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\image.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/image.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\image.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\image1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\image1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/image1.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\image1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\image2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\image2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/image2.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\image2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img1.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img11.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img11.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img11.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img11.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img2.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img22.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img22.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img22.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img22.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img3.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img3.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img3.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img3.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img33.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\img33.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/img33.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img33.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\info.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\info.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/info.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\info.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\left.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\left.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/left.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\left.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\left1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\left1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/left1.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\left1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\linkedin.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\linkedin.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/linkedin.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\linkedin.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\list.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\list.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/list.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\logo.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\logo.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/logo.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\mission.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\mission.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/mission.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mission.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\my-story.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\my-story.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/my-story.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\my-story.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\new-message.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\new-message.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/new-message.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\new-message.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\next.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\next.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/next.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\next.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Nourish-the-Children-in--African-country.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Nourish-the-Children-in--African-country.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Nourish-the-Children-in--African-country.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Nourish-the-Children-in--African-country.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Nourish-the-Children-in--African-country-1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Nourish-the-Children-in--African-country-1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Nourish-the-Children-in--African-country-1.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Nourish-the-Children-in--African-country-1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Open-Volunteering-Requests.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Open-Volunteering-Requests.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Open-Volunteering-Requests.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Open-Volunteering-Requests.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\organization.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\organization.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/organization.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\organization.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pdf.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pdf.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/pdf.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pdf.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pin.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pin.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/pin.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pin.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pin1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pin1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/pin1.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pin1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Plantation-and-Afforestation-programme.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Plantation-and-Afforestation-programme.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Plantation-and-Afforestation-programme.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Plantation-and-Afforestation-programme.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Plantation-and-Afforestation-programme-1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Plantation-and-Afforestation-programme-1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Plantation-and-Afforestation-programme-1.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Plantation-and-Afforestation-programme-1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pngegg.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\pngegg.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/pngegg.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pngegg.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\previous.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\previous.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/previous.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\previous.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/right.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\right.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-arrow.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-arrow.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/right-arrow.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\right-arrow.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-arrow1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-arrow1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/right-arrow1.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\right-arrow1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-arrow2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-arrow2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/right-arrow2.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\right-arrow2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-white.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\right-white.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/right-white.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\right-white.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\search.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\search.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/search.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\search.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Seats-left.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Seats-left.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Seats-left.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Seats-left.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\selected-star.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\selected-star.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/selected-star.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\selected-star.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\settings.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\settings.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/settings.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\settings.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\star.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\star.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/star.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\star.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\star-empty.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\star-empty.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/star-empty.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\star-empty.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\twitter.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\twitter.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/twitter.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\twitter.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\up.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\up.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/up.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\up.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/user.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\user.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/user1.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\user1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user-img.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user-img.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/user-img.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\user-img.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user-img-large.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\user-img-large.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/user-img-large.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\user-img-large.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer1.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer1.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer1.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer1.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer2.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer2.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer2.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer2.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer3.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer3.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer3.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer3.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer4.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer4.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer4.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer4.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer5.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer5.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer5.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer5.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer6.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer6.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer6.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer6.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer7.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer7.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer7.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer7.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer8.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer8.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer8.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer8.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer9.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\volunteer9.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/volunteer9.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\volunteer9.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Volunteering-Rank.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Volunteering-Rank.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Volunteering-Rank.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Volunteering-Rank.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Voted-Missions.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\Voted-Missions.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/Voted-Missions.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Voted-Missions.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\web.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\web.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/web.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\web.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\xlsx.png",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\Images\\xlsx.png",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "Images/xlsx.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\xlsx.png"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\js\\bootstrap.js",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\js\\bootstrap.js",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\js\\Custom.js",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\js\\Custom.js",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "js/Custom.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Custom.js"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\js\\CustomCarousel.js",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\js\\CustomCarousel.js",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "js/CustomCarousel.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\js\\CustomCarousel.js"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\js\\jquery.js",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\js\\jquery.js",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\js\\jquery.min.js",
+      "Identity": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\js\\jquery.min.js",
       "SourceId": "CI_Platform_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\tatvasoft-project\\CI-Platform\\MVC\\CI_Platform_MVC\\wwwroot\\",
+      "ContentRoot": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC\\wwwroot\\",
       "BasePath": "_content/CI_Platform_MVC",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
