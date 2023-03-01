@@ -21,10 +21,14 @@
 
 
                        <li><a class="dropdown-item country-name" href="#" role="button">All</a></li>
-                       <li><a class="dropdown-item country-name" href="#" role="button">America</a></li>
-                        <li><a class="dropdown-item country-name" href="#" role="button">China</a></li>
-                        <li><a class="dropdown-item country-name" href="#" role="button">Russia</a></li>
-                        <li><a class="dropdown-item country-name" href="#" role="button">Africa</a></li>
+
+                       @foreach (var item in ViewBag.Country)
+                       {
+                           <li><a class="dropdown-item country-name" href="#" role="button">@item.Name</a></li>
+                       }
+
+                       
+
 
                     </ul>
                 
@@ -37,21 +41,15 @@
                         City <img src="~/Images/drop-down.png" alt="">
                     </a>
                     <ul class="dropdown-menu ps-2 scrollable-menu" aria-labelledby="navbarDropdown">
-                        
-                        <li><input class="form-check-input city-name" type="checkbox" value="Ahmedabad" id="flexCheckDefault">
+                        @foreach (var item in ViewBag.City)
+                        {
+                             <li><input class="form-check-input city-name" type="checkbox" value="@item.Name" id="flexCheckDefault">
                         <label class="form-check-label" for="flexCheckDefault">
-                                Ahmedabad
+                                @item.Name
                         </label></li>
+                        }                        
+                       
 
-                        <li><input class="form-check-input city-name" type="checkbox" value="Baroda" id="flexCheckDefault">
-                        <label class="form-check-label city-name" for="flexCheckDefault">
-                                Baroda
-                        </label></li>
-
-                        <li><input class="form-check-input city-name" type="checkbox" value="Vadnagar" id="flexCheckDefault">
-                        <label class="form-check-label city-name" for="flexCheckDefault">
-                                Vadnagar
-                        </label></li>
                         
                     </ul>
 

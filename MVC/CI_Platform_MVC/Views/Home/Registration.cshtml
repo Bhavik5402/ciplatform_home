@@ -59,7 +59,7 @@
         <div class="second-part">
             <div class="registration-form-content">
                 
-                <form method="post">
+                <form method="post" onsubmit="return validateForm()">
                     <div class="mb-3">
                       <label asp-for="User.FirstName" class="form-label">First Name</label>
                       <input asp-for="User.FirstName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -83,12 +83,13 @@
                     </div>
                     <div class="mb-3">
                       <label asp-for="User.Password" class="form-label">Password</label>
-                      <input asp-for="User.Password" type="password" class="form-control" id="password">
+                      <input asp-for="User.Password" type="password" class="form-control" id="newPassword">
+                      <span asp-validation-for="User.Password" class="text-danger"></span>
                     </div>
                     <div class="mb-3">
                       <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
-                      <input asp-for="ConfirmPassword" type="password" class="form-control" id="c-password">
-                      <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                      <input asp-for="ConfirmPassword" type="password" class="form-control" id="confirmNewPassword">
+                      <span asp-validation-for="ConfirmPassword" class="text-danger" id="message"></span>
                     </div>
                                         
 
@@ -108,3 +109,15 @@
         </div>
     </div>
 
+    
+    <script>
+    function validateForm() {  
+        //collect form data in JavaScript variables  
+        var pw1 = document.getElementById("newPassword").value;  
+        var pw2 = document.getElementById("confirmNewPassword").value;  
+        if(pw1 != pw2) {  
+          document.getElementById("message").innerHTML = "Passwords are not same";  
+          return false;  
+        }   
+     }  
+    </script>

@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace CI_Platform_MVC.Reposatory.Interface
 {
-    public interface IUserRepository : IRepository<User>
+    public interface ICountryRepository : IRepository<Country>
     {
-        void Update(User user);
-        void UpdatePassword(User user, string newPassword);
+        public List<Country> GetCountryList();
     }
 }

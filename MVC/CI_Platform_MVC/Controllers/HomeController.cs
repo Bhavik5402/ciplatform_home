@@ -1,10 +1,10 @@
 
-
 using CI_Platform_MVC.Entity.Data;
 using CI_Platform_MVC.Entity.Models;
 using CI_Platform_MVC.Entity.Models.ViewModel;
 using CI_Platform_MVC.Models;
 using CI_Platform_MVC.Reposatory.Interface;
+using CI_Platform_MVC.Utility;
 using MailKit.Net.Smtp;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -16,6 +16,7 @@ using SendGrid.Helpers.Mail;
 using System.Diagnostics;
 using System.IdentityModel.Tokens.Jwt;
 using System.Net;
+//using System.Net.Mail;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
@@ -25,39 +26,46 @@ namespace CI_Platform_MVC.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        public readonly IUserRepository _userRepository;
-        private readonly ISendGridClient _sendGridClient;
-        private readonly CiPlatformContext _db;
-        private IConfiguration _configuration;
-        private readonly SMTPConfigModel _smtpConfig;
 
-
-        public HomeController(CiPlatformContext db , IConfiguration iconfig , ILogger<HomeController> logger , ISendGridClient sendGridClient, 
-            IOptions<SMTPConfigModel> smtpConfig , IUserRepository userRepository)
-        {;
-            this._db = db;
-            this._configuration = iconfig;
-            this._logger = logger;
-            _sendGridClient = sendGridClient;
-            _smtpConfig = smtpConfig.Value;
-            _userRepository = userRepository;
-        }
-
+        //public readonly ICityRepository _cityRepository;
+        //public readonly ICountryRepository _countryRepository;
+        public readonly IUnitOfWork _UnitOfWork;
+        //public readonly IPasswordResetRepository _passwordresetRepository;
+        //private readonly CiPlatformContext _db;
         
-        //login page controller
+        private readonly Functions _f;
+
+
+        public HomeController(ILogger<HomeController> logger ,Functions f , IUnitOfWork unitOfWork)
+        {
+            //this._db = db;
+            this._logger = logger;
+            _f = f;
+            //_cityRepository = cityRepository;
+            //_countryRepository = countryRepository;
+            //_passwordresetRepository = passwordResetRepository;
+            _UnitOfWork = unitOfWork;
+        }
 
         public IActionResult Index()
         {
+            var sessionValue = HttpContext.Session.GetString("UserEmail");
+            if(!String.IsNullOrEmpty(sessionValue))
+            {
+                return RedirectToAction("Home");
+            }
+
             return View();
         }
 
         [HttpPost]
 
-        public IActionResult Index(Entity.Models.User obj)
+        public IActionResult Index(User obj)
         {
-            var encodedPassword = _userRepository.EncryptPass(obj.Password);
+            var encodedPassword = _f.encodepass(obj.Password);
 
-            var user = _db.Users.FirstOrDefault(u => u.Email == obj.Email);
+            //var user = _db.Users.FirstOrDefault(u => u.Email == obj.Email);
+            var user = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == obj.Email);
 
 
 
@@ -69,6 +77,8 @@ namespace CI_Platform_MVC.Controllers
             if (user.Password == encodedPassword)
             {
                 TempData["success"] = "Login Successful";
+
+                HttpContext.Session.SetString("UserEmail", user.Email);
                 return RedirectToAction("Home");
             }
             TempData["error"] = "Invalid Password";
@@ -76,8 +86,6 @@ namespace CI_Platform_MVC.Controllers
         }
 
 
-
-        //forgot password controller
 
         public IActionResult Forgotpassword()
         {
@@ -92,21 +100,24 @@ namespace CI_Platform_MVC.Controllers
         {
             if(ModelState.IsValid)
             {
-                var user = _db.Users.FirstOrDefault(u => u.Email == email);
+                //var user = _db.Users.FirstOrDefault(u => u.Email == email);
+                var user = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == email);
                 if(user != null)
                 {
-                    var token = GenerateToken(user);
+                    var token = _f.GenerateToken(user);
                     var token2 = new JwtSecurityTokenHandler().WriteToken(token);
 
-                    var obj = new Entity.Models.PasswordReset()
+                    var obj = new PasswordReset()
                     {
                         Email = email,
                         Token = new JwtSecurityTokenHandler().WriteToken(token),
                         CreateAt = DateTime.Now
                     };
 
-                    _db.PasswordResets.Add(obj);
-                    _db.SaveChanges();
+                    //_db.PasswordResets.Add(obj);
+                    _UnitOfWork.PasswordReset.Add(obj);
+                    //_db.SaveChanges();
+                    _UnitOfWork.Save();
 
                     var passwordresetlink = Url.Action("Resetpassword" , "Home" , new {token = token2 } , Request.Scheme);
                     TempData["link"]= passwordresetlink;
@@ -116,7 +127,7 @@ namespace CI_Platform_MVC.Controllers
                         Subject = "Reset Password Link",
                         Body = "<a href="+passwordresetlink+">"+passwordresetlink+"</a>"
                     };
-                    SendEmail(email, userEmailOptions);
+                    _f.SendEmail(email, userEmailOptions);
 
                     
 
@@ -136,60 +147,12 @@ namespace CI_Platform_MVC.Controllers
             return View();
         }
 
-
-        //Send Email Method
-
-
-        public void SendEmail(string toEmail, UserEmailOptions userEmailOptions)
-        {
-            var email = new MimeMessage();
-
-            email.From.Add(new MailboxAddress(_smtpConfig.SenderDisplayName,_smtpConfig.SenderAddress));
-            email.To.Add(new MailboxAddress("Bhavik", toEmail ));
-
-            email.Subject = userEmailOptions.Subject;
-            var bodyBuilder = new BodyBuilder();
-
-            bodyBuilder.HtmlBody = userEmailOptions.Body;
-            email.Body = bodyBuilder.ToMessageBody();
-
-            using (var smtp = new SmtpClient())
-            {
-                smtp.Connect("smtp.gmail.com", 465, true);
-
-                smtp.Authenticate("bjparmar.5402@gmail.com", "fcizgxoijgbcypox");
-
-                smtp.Send(email);
-                smtp.Disconnect(true);
-            }
-        }
        
 
-
-        //generate token method
-
-        private JwtSecurityToken GenerateToken(Entity.Models.User user)
-        {
-            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
-            var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
-            var claims = new[]
-            {
-                new Claim(ClaimTypes.Email , user.Email)
-            };
-            var token = new JwtSecurityToken(_configuration["Jwt:Issuer"],
-                _configuration["Jwt:Audience"],
-                claims,
-                expires: DateTime.Now.AddMinutes(240),
-                signingCredentials: credentials);
-
-            return token;
-
-        }
-
-        //reset password controller
         public IActionResult Resetpassword(string token)
         {
-            var find_token = _db.PasswordResets.FirstOrDefault(u => u.Token == token);
+            //var find_token = _db.PasswordResets.FirstOrDefault(u => u.Token == token);
+            var find_token = _UnitOfWork.PasswordReset.GetFirstOrDefault(u => u.Token == token);
             if(find_token == null)
             {
                 return BadRequest("token has been expired");
@@ -212,23 +175,27 @@ namespace CI_Platform_MVC.Controllers
         [HttpPost]
         public IActionResult Resetpassword(ResetPassVM obj)
         {
-            var encodedPassword = _userRepository.EncryptPass(obj.password);
-
+            var encodedPassword = _f.encodepass(obj.password);
             if (obj.password == obj.confirmpassword)
             {
-                var user = _db.Users.FirstOrDefault(x => x.Email == obj.email);
+                //var user = _db.Users.FirstOrDefault(x => x.Email == obj.email);
+                var user = _UnitOfWork.User.GetFirstOrDefault(x => x.Email == obj.email);
+                //var removelist = _passwordresetRepository.GetAll().Where(x => x.Email == obj.email);
+                var removelist = _UnitOfWork.PasswordReset.GetAll().Where(x => x.Email == obj.email);
                 user.Password = encodedPassword;
                 user.UpdatedAt = DateTime.Now;
-                _db.Users.Update(user);
-                var token_remove = _db.PasswordResets.FirstOrDefault(x => x.Token == obj.token);
-                _db.PasswordResets.Remove(token_remove);
-                _db.SaveChanges();
+                //_db.Users.Update(user);
+                _UnitOfWork.User.Update(user);
+                //var token_remove = _db.PasswordResets.FirstOrDefault(x => x.Token == obj.token);
+                //_db.PasswordResets.Remove(token_remove);
+                //_passwordresetRepository.RemoveRange(removelist);
+                _UnitOfWork.PasswordReset.RemoveRange(removelist);
+                //_db.SaveChanges();
+                _UnitOfWork.Save();
                 return RedirectToAction("Index");
             }
             return View();
         }
-
-        //registration controller
 
         public IActionResult Registration()
         {
@@ -240,17 +207,28 @@ namespace CI_Platform_MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                if (obj.User.Password != obj.ConfirmPassword)
+                //var user = _db.Users.FirstOrDefault(x => x.Email == obj.User.Email);
+                var user = _UnitOfWork.User.GetFirstOrDefault(x => x.Email == obj.User.Email);
+                if(user == null)
                 {
-                    TempData["error"] = "Passwords are not matched";
-                    return View();
+                    if (obj.User.Password != obj.ConfirmPassword)
+                    {
+                        TempData["error"] = "Passwords are not matched";
+                        return View();
+                    }
+                    obj.User.Password = _f.encodepass(obj.User.Password);
+                    //_db.Users.Add(obj.User);
+                    _UnitOfWork.User.Add(obj.User);
+                    //_db.SaveChanges();
+                    _UnitOfWork.Save();
+                    TempData["success"] = "Registration Successful";
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    TempData["error"] = "Email Address is already registered";
                 }
 
-                obj.User.Password = _userRepository.EncryptPass(obj.User.Password);
-                _db.Users.Add(obj.User);
-                _db.SaveChanges();
-                TempData["success"] = "Registration Successful";
-                return RedirectToAction("Index");
 
             }
 
@@ -260,10 +238,30 @@ namespace CI_Platform_MVC.Controllers
 
         public IActionResult Home()
         {
+            List<City> citylist = _UnitOfWork.City.GetCityList().Where(x => x.Name != "undefined").ToList();
+            List<Country> countrylist = _UnitOfWork.Country.GetCountryList().Where(x => x.Name != "undefined").ToList();
+            ViewBag.Country = countrylist;
+            ViewBag.City = citylist;
             return View();
         }
 
+        public IActionResult temp()
+        {
+            return View();
+        }
 
+        public IActionResult logout()
+        {
+            HttpContext.Session.SetString("UserEmail", "");
+            return RedirectToAction("Index");
+        }
+
+
+        //[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        //public IActionResult Error()
+        //{
+        //    return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        //}
     }
 
 

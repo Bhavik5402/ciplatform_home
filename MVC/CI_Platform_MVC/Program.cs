@@ -6,8 +6,9 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using SendGrid.Extensions.DependencyInjection;
 using CI_Platform_MVC.Models;
+using CI_Platform_MVC.Utility;
 using CI_Platform_MVC.Reposatory.Interface;
-using CI_Platform_MVC.Reposatory.Repository;
+using CI_Platform_MVC.Reposatory.Repositories;
 //using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,8 +16,21 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(5);
+});
+
 builder.Services.AddDbContext<CiPlatformContext>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
+//builder.Services.AddScoped<ICityRepository , CityRepository>();
+//builder.Services.AddScoped<ICountryRepository , CountryRepository>();
+//builder.Services.AddScoped<ICountryRepository , CountryRepository>();
+builder.Services.AddScoped<IUnitOfWork , UnitOfWork>();
+builder.Services.AddScoped<IPasswordResetRepository , PasswordResetRepository>();
+//builder.Services.AddScoped<IRepository, Repository>();
+builder.Services.AddScoped<Functions>();
 
 builder.Services.Configure<SMTPConfigModel>(builder.Configuration.GetSection("SMTPConfig"));
 //services.Configure<SMTPConfigModel>(_configuration.GetSection("SMTPConfig"));
@@ -58,6 +72,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
