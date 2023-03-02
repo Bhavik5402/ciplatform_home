@@ -231,10 +231,7 @@
 }
 
 .mission-like {
-    position: absolute;
-    margin-right: 0px;
-    margin-left: 88%;
-    margin-top: 35%
+    margin-top: 100px;
 }
 
     .mission-like button {
@@ -248,7 +245,7 @@
 
 .mission-location {
     position: absolute;
-    width: 86px;
+    min-width: 100px;
     margin-top: 3%;
     padding: 5px 5px;
     border-radius: 50px;
@@ -284,11 +281,7 @@
     }
 
 .mission-seat {
-    display: flex;
-    position: absolute;
-    margin-right: 0px;
-    margin-left: 88%;
-    margin-top: 48%;
+    margin-top: 10px;
 }
 
     .mission-seat button {
@@ -405,21 +398,15 @@
     }
 
 .mission-location-list {
-    position: absolute;
-    width: 86px;
-    /* align-self: flex-end; */
-    /* margin-right: 0px; */
-    /* margin-left: 77%; */
-    margin-top: 0%;
-    /* border: 2px solid rgb(121, 119, 119); */
-    padding: 5px 5px;
-    border-radius: 50px;
+    align-self: flex-start;
+    margin-top: 5px;
+    background-color: #414141;
     border: none;
-    /* background-color: #f11212 transparent !important; */
-    /* color: white transparent !important; */
-    background: #131212;
-    background-color: black transparent;
-    color: white;
+    color: #FFFFFF;
+    border-radius: 20px;
+    /*opacity: 75%;*/
+    padding: 5px;
+    justify-content: space-between;
 }
 
 .mission-like-list {
@@ -621,13 +608,6 @@
     }
 
 
-    .mission-like-list {
-        margin-top: 18% !important;
-    }
-
-    .mission-seat-list {
-        margin-top: 24% !important;
-    }
 
     .card-button button img {
         display: none;
@@ -734,15 +714,6 @@
         height: 375px;
     }
 
-    .mission-like {
-        margin-left: 92%;
-        margin-top: 45%;
-    }
-
-    .mission-seat {
-        margin-left: 92%;
-        margin-top: 52%;
-    }
 
     #list-btn {
         display: none;
@@ -766,15 +737,7 @@
         display: none;
     }
 
-    .mission-like {
-        margin-left: 92%;
-        margin-top: 40%;
-    }
-
-    .mission-seat {
-        margin-left: 92%;
-        margin-top: 50%;
-    }
+   
 
     .img-filter {
         display: inline;
@@ -809,17 +772,7 @@
         margin-bottom:5px;
     }
 }
-@media screen and (max-width: 500px) {
-    .mission-like {
-        margin-left: 89%;
-        margin-top: 40%;
-    }
 
-    .mission-seat {
-        margin-left: 89%;
-        margin-top: 50%;
-    }
-}
 @media screen and (max-width: 430px) {
     .input-field {
         width: 75% !important;
@@ -829,15 +782,7 @@
         font-size: 20px;
     }
 
-    .mission-like {
-        margin-left: 88%;
-        margin-top: 34%;
-    }
-
-    .mission-seat {
-        margin-left: 88%;
-        margin-top: 46%;
-    }
+    
 }
 
 

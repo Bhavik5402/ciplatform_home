@@ -1695,7 +1695,6 @@ D:\ABC\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MailKit.dll
 D:\ABC\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\MimeKit.dll
 D:\ABC\CI-Platform\MVC\CI_Platform_MVC\bin\Debug\net6.0\BouncyCastle.Crypto.dll
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.Development.json
-D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.staticwebassets.runtime.json
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.exe
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\bin\Debug\net6.0\CI_Platform_MVC.deps.json

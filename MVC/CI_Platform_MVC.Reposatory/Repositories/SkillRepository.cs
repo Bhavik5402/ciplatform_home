@@ -9,18 +9,18 @@ using System.Threading.Tasks;
 
 namespace CI_Platform_MVC.Reposatory.Repositories
 {
-    public class CountryRepository : Repository<Country>, ICountryRepository
+    public class SkillRepository : Repository<Skill>, ISkillRepository
     {
         public readonly CiPlatformContext _db;
-        public CountryRepository(CiPlatformContext db) : base(db)
+        public SkillRepository(CiPlatformContext db) : base(db)
         {
             _db = db;
         }
 
-        public List<Country> GetCountryList()
+        public List<Skill> GetSkillList()
         {
-            List<Country> countrylist = GetAll().ToList();
-            return countrylist;
+            List<Skill> skillList = GetAll().ToList();
+            return skillList;
         }
     }
 }

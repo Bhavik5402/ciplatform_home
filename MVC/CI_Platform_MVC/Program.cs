@@ -27,8 +27,8 @@ builder.Services.AddDbContext<CiPlatformContext>();
 //builder.Services.AddScoped<ICityRepository , CityRepository>();
 //builder.Services.AddScoped<ICountryRepository , CountryRepository>();
 //builder.Services.AddScoped<ICountryRepository , CountryRepository>();
-builder.Services.AddScoped<IUnitOfWork , UnitOfWork>();
-builder.Services.AddScoped<IPasswordResetRepository , PasswordResetRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+//builder.Services.AddScoped<IPasswordResetRepository , PasswordResetRepository>();
 //builder.Services.AddScoped<IRepository, Repository>();
 builder.Services.AddScoped<Functions>();
 

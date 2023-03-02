@@ -20,11 +20,11 @@
                     <ul class="dropdown-menu scrollable-menu" aria-labelledby="navbarDropdown">
 
 
-                       <li><a class="dropdown-item country-name" href="#" role="button">All</a></li>
+                       <li><a class="dropdown-item country-name" asp-controller="Home" asp-action="Home" role="button" asp-route-id="0">All</a></li>
 
                        @foreach (var item in ViewBag.Country)
                        {
-                           <li><a class="dropdown-item country-name" href="#" role="button">@item.Name</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Home" asp-action="Home" role="button" asp-route-id = "@item.CountryId">@item.Name</a></li>
                        }
 
                        
@@ -62,14 +62,16 @@
                         Themes <img src="~/Images/drop-down.png" alt="">
                     </a>
                     <ul class="dropdown-menu scrollable-menu ps-2" aria-labelledby="navbarDropdown">
-                        <li><input class="form-check-input city-name" type="checkbox" value="Theme-1" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Theme-1
-                        </label></li>
-                        <li><input class="form-check-input city-name" type="checkbox" value="Theme-2" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Theme-2
-                        </label></li>
+
+                        @foreach (var item in @ViewBag.ThemeList)
+                        {
+                            <li><input class="form-check-input city-name" type="checkbox" value="@item.Title" id="flexCheckDefault">
+                        
+                        <span>@item.Title</span>    
+                        </li>
+ 
+                        }
+                        
                                      
                     </ul>
 
@@ -82,14 +84,16 @@
                         Skills <img src="~/Images/drop-down.png" alt="">
                     </a>
                     <ul class="dropdown-menu scrollable-menu ps-2" aria-labelledby="navbarDropdown">
-                         <li><input class="form-check-input city-name" type="checkbox" value="Skill-1" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Skill-1
-                        </label></li>
-                        <li><input class="form-check-input city-name" type="checkbox" value="Skill-2" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Skill-2
-                        </label></li>
+
+                        @foreach (var item in @ViewBag.SkillList)
+                        {
+                            <li><input class="form-check-input city-name" type="checkbox" value="@item.SkillName" id="flexCheckDefault">
+                        <span>
+                                @item.SkillName
+                        </span></li>
+                       
+                        }
+                          
                        
                     </ul>
 

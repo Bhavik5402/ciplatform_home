@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace CI_Platform_MVC.Reposatory.Interface
 {
-    public interface IPasswordResetRepository : IRepository<PasswordReset>
+    public interface IMissionRepository : IRepository<Mission>
     {
-        void Update(PasswordReset passwordReset);
+        public List<Mission> GetAllMissions();
     }
 }

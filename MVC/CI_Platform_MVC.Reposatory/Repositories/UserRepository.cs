@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CI_Platform_MVC.Reposatory.Repositories
 {
-    public class UserRepository : Repository<User> , IUserRepository
+    public class UserRepository : Repository<User>, IUserRepository
     {
         public readonly CiPlatformContext _db;
         public UserRepository(CiPlatformContext db) : base(db)

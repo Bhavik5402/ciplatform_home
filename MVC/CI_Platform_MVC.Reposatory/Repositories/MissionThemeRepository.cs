@@ -9,18 +9,19 @@ using System.Threading.Tasks;
 
 namespace CI_Platform_MVC.Reposatory.Repositories
 {
-    public class CountryRepository : Repository<Country>, ICountryRepository
+    public class MissionThemeRepository : Repository<MissionTheme>, IMissionThemeRepository
     {
         public readonly CiPlatformContext _db;
-        public CountryRepository(CiPlatformContext db) : base(db)
+        public MissionThemeRepository(CiPlatformContext db) : base(db)
         {
             _db = db;
         }
 
-        public List<Country> GetCountryList()
+        public List<MissionTheme> GetThemeList()
         {
-            List<Country> countrylist = GetAll().ToList();
-            return countrylist;
+            List<MissionTheme> themeList = GetAll().ToList();
+            //List<MissionTheme> themeList = _db.MissionThemes.ToList();
+            return themeList;
         }
     }
 }

@@ -14,7 +14,13 @@ namespace CI_Platform_MVC.Reposatory.Repositories
         public ICityRepository City { get; private set; }
         public ICountryRepository Country { get; private set; }
 
-        public IPasswordResetRepository PasswordReset { get; private set; } 
+        public IPasswordResetRepository PasswordReset { get; private set; }
+
+        public IMissionThemeRepository MissionTheme { get; private set; }
+
+        public ISkillRepository Skill { get; private set; }
+
+        public IMissionRepository Mission { get; private set; }
 
         public IUserRepository User { get; private set; }
         public UnitOfWork(CiPlatformContext db)
@@ -24,6 +30,9 @@ namespace CI_Platform_MVC.Reposatory.Repositories
             Country = new CountryRepository(_db);
             User = new UserRepository(_db);
             PasswordReset = new PasswordResetRepository(_db);
+            MissionTheme = new MissionThemeRepository(_db);
+            Skill = new SkillRepository(_db);
+            Mission = new MissionRepository(_db);
         }
 
         public void Save()

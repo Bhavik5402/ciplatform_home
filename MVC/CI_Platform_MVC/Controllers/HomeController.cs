@@ -32,11 +32,11 @@ namespace CI_Platform_MVC.Controllers
         public readonly IUnitOfWork _UnitOfWork;
         //public readonly IPasswordResetRepository _passwordresetRepository;
         //private readonly CiPlatformContext _db;
-        
+
         private readonly Functions _f;
 
 
-        public HomeController(ILogger<HomeController> logger ,Functions f , IUnitOfWork unitOfWork)
+        public HomeController(ILogger<HomeController> logger, Functions f, IUnitOfWork unitOfWork)
         {
             //this._db = db;
             this._logger = logger;
@@ -50,7 +50,7 @@ namespace CI_Platform_MVC.Controllers
         public IActionResult Index()
         {
             var sessionValue = HttpContext.Session.GetString("UserEmail");
-            if(!String.IsNullOrEmpty(sessionValue))
+            if (!String.IsNullOrEmpty(sessionValue))
             {
                 return RedirectToAction("Home");
             }
@@ -79,6 +79,8 @@ namespace CI_Platform_MVC.Controllers
                 TempData["success"] = "Login Successful";
 
                 HttpContext.Session.SetString("UserEmail", user.Email);
+                //var Username = user.FirstName;
+                //ViewData["username"] = user.FirstName;
                 return RedirectToAction("Home");
             }
             TempData["error"] = "Invalid Password";
@@ -98,11 +100,11 @@ namespace CI_Platform_MVC.Controllers
 
         public async Task<IActionResult> Forgotpassword(string email)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 //var user = _db.Users.FirstOrDefault(u => u.Email == email);
                 var user = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == email);
-                if(user != null)
+                if (user != null)
                 {
                     var token = _f.GenerateToken(user);
                     var token2 = new JwtSecurityTokenHandler().WriteToken(token);
@@ -119,17 +121,17 @@ namespace CI_Platform_MVC.Controllers
                     //_db.SaveChanges();
                     _UnitOfWork.Save();
 
-                    var passwordresetlink = Url.Action("Resetpassword" , "Home" , new {token = token2 } , Request.Scheme);
-                    TempData["link"]= passwordresetlink;
+                    var passwordresetlink = Url.Action("Resetpassword", "Home", new { token = token2 }, Request.Scheme);
+                    TempData["link"] = passwordresetlink;
 
                     UserEmailOptions userEmailOptions = new UserEmailOptions()
                     {
                         Subject = "Reset Password Link",
-                        Body = "<a href="+passwordresetlink+">"+passwordresetlink+"</a>"
+                        Body = "<a href=" + passwordresetlink + ">" + passwordresetlink + "</a>"
                     };
                     _f.SendEmail(email, userEmailOptions);
 
-                    
+
 
 
                     TempData["success"] = "Email has been sent to your email account";
@@ -143,17 +145,17 @@ namespace CI_Platform_MVC.Controllers
                 }
             }
 
-            
+
             return View();
         }
 
-       
+
 
         public IActionResult Resetpassword(string token)
         {
             //var find_token = _db.PasswordResets.FirstOrDefault(u => u.Token == token);
             var find_token = _UnitOfWork.PasswordReset.GetFirstOrDefault(u => u.Token == token);
-            if(find_token == null)
+            if (find_token == null)
             {
                 return BadRequest("token has been expired");
             }
@@ -165,13 +167,13 @@ namespace CI_Platform_MVC.Controllers
                 email = email,
                 token = token
             };
-            if(tokenobj.Payload.Exp < DateTimeOffset.UtcNow.ToUnixTimeSeconds())
+            if (tokenobj.Payload.Exp < DateTimeOffset.UtcNow.ToUnixTimeSeconds())
             {
                 return BadRequest("Reset Password Link has been expired try again");
             }
             return View();
         }
-        
+
         [HttpPost]
         public IActionResult Resetpassword(ResetPassVM obj)
         {
@@ -182,10 +184,10 @@ namespace CI_Platform_MVC.Controllers
                 var user = _UnitOfWork.User.GetFirstOrDefault(x => x.Email == obj.email);
                 //var removelist = _passwordresetRepository.GetAll().Where(x => x.Email == obj.email);
                 var removelist = _UnitOfWork.PasswordReset.GetAll().Where(x => x.Email == obj.email);
-                user.Password = encodedPassword;
+                //user.Password = encodedPassword;
                 user.UpdatedAt = DateTime.Now;
                 //_db.Users.Update(user);
-                _UnitOfWork.User.Update(user);
+                _UnitOfWork.User.UpdatePassword(user , encodedPassword);
                 //var token_remove = _db.PasswordResets.FirstOrDefault(x => x.Token == obj.token);
                 //_db.PasswordResets.Remove(token_remove);
                 //_passwordresetRepository.RemoveRange(removelist);
@@ -201,7 +203,7 @@ namespace CI_Platform_MVC.Controllers
         {
             return View();
         }
-        
+
         [HttpPost]
         public IActionResult Registration(RegisterVM obj)
         {
@@ -209,7 +211,7 @@ namespace CI_Platform_MVC.Controllers
             {
                 //var user = _db.Users.FirstOrDefault(x => x.Email == obj.User.Email);
                 var user = _UnitOfWork.User.GetFirstOrDefault(x => x.Email == obj.User.Email);
-                if(user == null)
+                if (user == null)
                 {
                     if (obj.User.Password != obj.ConfirmPassword)
                     {
@@ -236,12 +238,35 @@ namespace CI_Platform_MVC.Controllers
             return View();
         }
 
-        public IActionResult Home()
+        public IActionResult Home(long id=0)
         {
+            var sessionValue = HttpContext.Session.GetString("UserEmail");
+
             List<City> citylist = _UnitOfWork.City.GetCityList().Where(x => x.Name != "undefined").ToList();
+            List<MissionTheme> themelist = _UnitOfWork.MissionTheme.GetThemeList();
+            List<Mission> missionlist = _UnitOfWork.Mission.GetAllMissions();
+            List<Skill> skillList = _UnitOfWork.Skill.GetSkillList();
             List<Country> countrylist = _UnitOfWork.Country.GetCountryList().Where(x => x.Name != "undefined").ToList();
+            var user = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == sessionValue);
+            List<City> citybycountry = _UnitOfWork.City.GetCitiesByCountry(id);
+            if(id == 0)
+            {
+                ViewBag.City = citylist;
+                ViewBag.MissionList = missionlist;
+            }
+            else
+            {
+                ViewBag.City = citybycountry;
+                ViewBag.MissionList = _UnitOfWork.Mission.GetAllMissions().Where(u => u.CountryId == id);
+            }
             ViewBag.Country = countrylist;
-            ViewBag.City = citylist;
+
+            ViewBag.ThemeList = themelist;
+
+            ViewBag.SkillList = skillList;
+
+            ViewBag.User = user;
+            
             return View();
         }
 

@@ -18,6 +18,8 @@ let removebadge = document.getElementsByClassName("remove-badge");
 
 let navbadge_country = document.getElementById("nav-badge-country");
 
+
+
 //let passwrod = document.getElementById("password");
 //let c_password = document.getElementById("c-password");
 //c_password.addEventListener("keyup", confirm_password)
@@ -142,18 +144,30 @@ function mediaWidthCheck() {
 //    //console.log(filterList);
 //}
 
+let countCheck = -1;
+
 function filterMissions() {
-     text = event.target.value;
+    text = event.target.value;
+    for (let i = 0; i < checkboxInput.length; i++) {
+        if (checkboxInput[i].value == text) {
+            countCheck = i;
+            break;
+        }
+    }
     addFilterTag(text);
-    console.log(filterList);
+    //console.log(filterList);
 }
 
 function addFilterTag(text) {
     let temp = "";
     if (!filterList.has(text))
         filterList.add(text);
-    else
+    else {
         filterList.delete(text);
+        if (countCheck != -1)
+            checkboxInput[countCheck].checked = false;
+    }
+        
         
     
        
@@ -161,13 +175,28 @@ function addFilterTag(text) {
     for (const item of filterList) {
         temp = temp + `<h1 class="badge bg-light text-dark mx-1">  ${item} <button class="not-selected badge-close" value="${item}" aria-label="Close" onclick="filterMissions()">X</button> </h1>`;
         
+        
     }
+
+    
 
   
 
     navbadge.innerHTML = temp;
    
 }
+
+//for (i = 0; i < mission_location.length; i++) {
+//    if (filterList != []) {
+//        if (mission_location[i].innerHTML in filterList) {
+//            mission_location[i].classList.remove("hide");
+//        }
+//        else {
+//            mission_location[i].classList.add("hide");
+//        }
+//    }
+    
+//}
 
 
 

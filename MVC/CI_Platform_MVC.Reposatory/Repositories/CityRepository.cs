@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CI_Platform_MVC.Reposatory.Repositories
 {
-    public class CityRepository : Repository<City>  , ICityRepository
+    public class CityRepository : Repository<City>, ICityRepository
     {
         public readonly CiPlatformContext _db;
         public CityRepository(CiPlatformContext db) : base(db)
@@ -25,7 +25,7 @@ namespace CI_Platform_MVC.Reposatory.Repositories
 
         public List<City> GetCitiesByCountry(long country_id)
         {
-            List<City> citylistbycountry = GetAll().Where(c=> c.CountryId == country_id).ToList();
+            List<City> citylistbycountry = GetAll().Where(c => c.CountryId == country_id).ToList();
             return citylistbycountry;
         }
     }
