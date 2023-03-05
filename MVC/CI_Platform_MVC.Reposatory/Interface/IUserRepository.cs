@@ -9,6 +9,7 @@ namespace CI_Platform_MVC.Reposatory.Interface
 {
     public interface IUserRepository : IRepository<User>
     {
+        //public List<User> GetAllUsers();
         void Update(User user);
         void UpdatePassword(User user, string newPassword);
     }

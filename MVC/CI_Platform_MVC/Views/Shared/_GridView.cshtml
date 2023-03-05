@@ -1,9 +1,4 @@
-﻿
-@*
-    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
-*@
-
-<div id="grid-view">
+﻿<div id="grid-view">
            <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3  g-4" id="list"> 
 
            @foreach (var item in ViewBag.MissionList)
@@ -29,7 +24,7 @@
                         
                     </div>
                     <div class="mission-theme">
-                            <p>@item.Theme.Title</p>
+                            <p class="mission-theme-list">@item.Theme.Title</p>
                     </div>
                     <div class="card-body border-bottom">
                         <h5 class="card-title">@item.Title</h5>
@@ -103,5 +98,3 @@
         </div>
 
 </div>
-
-

@@ -19,10 +19,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3Jnb3RwYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BOOKSTORE TUT/ciplatform_home/MVC/CI_Platform_MVC/Views/Home/Home.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/BOOKSTORE TUT/ciplatform_home/MVC/CI_Platform_MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/BOOKSTORE TUT/ciplatform_home/MVC/CI_Platform_MVC/Views/Home/temp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BOOKSTORE TUT/ciplatform_home/MVC/CI_Platform_MVC/Views/Mission/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2lvblxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/BOOKSTORE TUT/ciplatform_home/MVC/CI_Platform_MVC/Views/Mission/Volunteering_Page.cshtml]

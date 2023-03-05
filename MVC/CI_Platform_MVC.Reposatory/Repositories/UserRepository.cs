@@ -28,5 +28,10 @@ namespace CI_Platform_MVC.Reposatory.Repositories
             user.UpdatedAt = DateTime.Now;
             _db.Users.Update(user);
         }
+
+        //public List<User> GetAllUsers()
+        //{
+        //    List<User> users = GetAll();
+        //}
     }
 }

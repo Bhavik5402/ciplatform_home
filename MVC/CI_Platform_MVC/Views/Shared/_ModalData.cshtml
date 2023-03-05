@@ -9,16 +9,21 @@
                             </div>
                             <div class="modal-body">
                                 <div class="container">
-                                    @for (var i = 0; i < 10; i++) { <div class="volunteer-rec">
-                                        <div>
-                                            <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
-                                            <p class="d-inline ms-1">AndrewJohnson</p>
-                                        </div>
 
-                                        <button type="button" class="btn btn-primary rec-btn"><img
+                                    @foreach (var item in ViewBag.AllUsers)
+                                    {
+                                        <div class="volunteer-rec">
+                                            <div>
+                                                <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
+                                                <p class="d-inline ms-1">@item.FirstName @item.LastName</p>
+                                            </div>
+
+                                            <button type="button" class="btn btn-primary rec-btn"><img
                                                 src="~/Images/user.png" alt="">Recommend</button>
-                                </div>
-                                }
+                                         </div>
+                                    }
+
+                                 
                             </div>
                             
                     </div>

@@ -20,11 +20,11 @@
                     <ul class="dropdown-menu scrollable-menu" aria-labelledby="navbarDropdown">
 
 
-                       <li><a class="dropdown-item country-name" asp-controller="Home" asp-action="Home" role="button" asp-route-id="0">All</a></li>
+                       <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-id="0">All</a></li>
 
                        @foreach (var item in ViewBag.Country)
                        {
-                           <li><a class="dropdown-item country-name" asp-controller="Home" asp-action="Home" role="button" asp-route-id = "@item.CountryId">@item.Name</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-id = "@item.CountryId">@item.Name</a></li>
                        }
 
                        
@@ -65,7 +65,7 @@
 
                         @foreach (var item in @ViewBag.ThemeList)
                         {
-                            <li><input class="form-check-input city-name" type="checkbox" value="@item.Title" id="flexCheckDefault">
+                            <li><input class="form-check-input theme-name" type="checkbox" value="@item.Title" id="flexCheckDefault">
                         
                         <span>@item.Title</span>    
                         </li>

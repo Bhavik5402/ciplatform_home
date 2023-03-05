@@ -1,16 +1,19 @@
+//localStorage.setItem("test2", "6969");
 grid_btn=document.getElementById("grid-btn");
 list_btn=document.getElementById("list-btn");
 grid_view=document.getElementById("grid-view");
 list_view = document.getElementById("list-view");
 let country_name = document.getElementsByClassName("country-name");
 let city_name = document.getElementsByClassName("city-name");
+let theme_name = document.getElementsByClassName("theme-name");
 let input_text = document.getElementById("searchbar");
 let x = document.getElementsByClassName('card-title');
 let y = document.getElementsByClassName('mission-list');
 let notfound = document.getElementById('notfound');
 input_text.addEventListener("keyup", search_mission);
 
-let navbadge = document.getElementById("nav-badge");
+let navbadge_city = document.getElementById("nav-badge-city");
+let navbadge_theme = document.getElementById("nav-badge-theme");
 
 let badgeclose = document.getElementsByClassName("badge-close");
 
@@ -18,43 +21,56 @@ let removebadge = document.getElementsByClassName("remove-badge");
 
 let navbadge_country = document.getElementById("nav-badge-country");
 
+let mission_city_list = document.getElementsByClassName("mission-location-city");
+let mission_theme_list = document.getElementsByClassName("mission-theme-list");
 
+let checkboxInput = document.getElementsByClassName("form-check-input");
 
-//let passwrod = document.getElementById("password");
-//let c_password = document.getElementById("c-password");
-//c_password.addEventListener("keyup", confirm_password)
+let filterList = new Set([]);
+let filterTheme = new Set([]);
+let citylist = new Array();
+let themelist = new Array();
+let themecitylist = new Array();
 
-function confirm_password() {
-    if (passwrod.value == c_password.value) {
-        
-    }
+for (i = 0; i < mission_city_list.length; i++) {
+    citylist.push(mission_city_list[i].innerHTML)
+}
+
+for (i = 0; i < mission_theme_list.length; i++) {
+    themelist.push(mission_theme_list[i].innerHTML)
+}
+
+for (i = 0; i < mission_theme_list.length; i++) {
+    themecitylist.push({ city: mission_city_list[i].innerHTML, theme: mission_theme_list[i].innerHTML })
+    console.log(themecitylist[i].city)
 }
 
 
 
 
-
-//let filterList = new Set([]);
-
-
-// Filtering feature variables
-//let dropdownItems = document.getElementsByClassName("dropdown-item");
-let checkboxInput = document.getElementsByClassName("form-check-input");
-//let filtersDiv = document.getElementById("nav-badge");
-let filterList = new Set([]);
-
-
-
-// Event Listener for filtering items
-//for (let i = 0; i < dropdownItems.length; i++) {
-//    dropdownItems[i].addEventListener('click', filterMissionsCountry);
-//}
-
-for (let i = 0; i < checkboxInput.length; i++) {
-    checkboxInput[i].addEventListener('click', filterMissions);
+for (let i = 0; i < city_name.length; i++) {
+    city_name[i].addEventListener('click', filterMissions);
+    
    
 }
 
+for (let i = 0; i < theme_name.length; i++) {
+    theme_name[i].addEventListener('click', filterThemeMissions);
+    
+   
+}
+
+
+
+
+//var obj = {
+//    city: citylist,
+//    theme: themelist
+//}
+
+//for (const item in obj) {
+//    console.log(obj[item]);
+//}
 
 
 
@@ -67,14 +83,11 @@ function search_mission() {
 
     for (i = 0; i < y.length; i++) {
         if (!x[i].innerHTML.toLowerCase().includes(input)) {
-            //x[i].style.display = "none";
-            //y[i].style.display = "none";
             y[i].classList.add("hide");
             
 
         }
         else {
-            //y[i].style.display = "block";
             y[i].classList.remove("hide");
             
 
@@ -136,26 +149,17 @@ function mediaWidthCheck() {
 
 }
 
-
-
-//function filterMissionsCountry() {
-//    let text = event.target.innerHTML;
-//    addFilterTag(text);
-//    //console.log(filterList);
-//}
-
 let countCheck = -1;
-
 function filterMissions() {
     text = event.target.value;
-    for (let i = 0; i < checkboxInput.length; i++) {
-        if (checkboxInput[i].value == text) {
+    for (let i = 0; i < city_name.length; i++) {
+        if (city_name[i].value == text) {
             countCheck = i;
             break;
         }
     }
     addFilterTag(text);
-    //console.log(filterList);
+    
 }
 
 function addFilterTag(text) {
@@ -165,7 +169,7 @@ function addFilterTag(text) {
     else {
         filterList.delete(text);
         if (countCheck != -1)
-            checkboxInput[countCheck].checked = false;
+            city_name[countCheck].checked = false;
     }
         
         
@@ -175,31 +179,99 @@ function addFilterTag(text) {
     for (const item of filterList) {
         temp = temp + `<h1 class="badge bg-light text-dark mx-1">  ${item} <button class="not-selected badge-close" value="${item}" aria-label="Close" onclick="filterMissions()">X</button> </h1>`;
         
-        
     }
-
-    
 
   
 
-    navbadge.innerHTML = temp;
+    navbadge_city.innerHTML = temp;
+
+    if (filterList.size != 0) {
+        if (filterTheme.size == 0) {
+            for (const item of citylist) {
+                if (!filterList.has(item)) {
+                    y[citylist.indexOf(item)].classList.add("hide");
+                }
+                else {
+                    y[citylist.indexOf(item)].classList.remove("hide");
+                }
+            }
+        }
+        else
+        {
+            for (const item of filterTheme)
+            {
+               
+                ////city = themecitylist["city"]
+                console.log(themecitylist[themelist.indexOf(item)].city, themecitylist[themelist.indexOf(item)].theme )
+                //console.log(item)
+            }
+
+        }
+        
+    }
+    else {
+        for (let i = 0; i < y.length; i++)
+            y[i].classList.remove("hide");
+    }
    
 }
 
-//for (i = 0; i < mission_location.length; i++) {
-//    if (filterList != []) {
-//        if (mission_location[i].innerHTML in filterList) {
-//            mission_location[i].classList.remove("hide");
-//        }
-//        else {
-//            mission_location[i].classList.add("hide");
-//        }
-//    }
-    
-//}
+let countCheckTheme = -1;
+function filterThemeMissions() {
+    text = event.target.value;
+    for (let i = 0; i < theme_name.length; i++) {
+        if (theme_name[i].value == text) {
+            countCheckTheme = i;
+            break;
+        }
+    }
+    addFilterThemeTag(text);
+
+}
+
+function addFilterThemeTag(text) {
+    let temp = "";
+    if (!filterTheme.has(text))
+        filterTheme.add(text);
+    else {
+        filterTheme.delete(text);
+        if (countCheckTheme != -1)
+            theme_name[countCheckTheme].checked = false;
+    }
 
 
 
+
+
+    for (const item of filterTheme) {
+        temp = temp + `<h1 class="badge bg-light text-dark mx-1">  ${item} <button class="not-selected badge-close" value="${item}" aria-label="Close" onclick="filterThemeMissions()">X</button> </h1>`;
+
+    }
+
+
+
+    navbadge_theme.innerHTML = temp;
+
+    if (filterTheme.size != 0) {
+        for (const theme of themelist) {
+
+            if (!filterTheme.has(theme) ) {
+                y[themelist.indexOf(theme)].classList.add("hide");
+            }
+            else {
+                y[themelist.indexOf(theme)].classList.remove("hide");
+            }
+        }
+    }
+    else {
+        for (let i = 0; i < y.length; i++)
+            y[i].classList.remove("hide");
+    }
+
+}
+
+
+//arr = new Array(Object)
 
 
 for (i = 0; i < country_name.length; i++) {
@@ -220,26 +292,4 @@ for (i = 0; i < country_name.length; i++) {
 }
 
 
-//for (i = 0; i < city_name.length; i++) {
-//    city_name[i].addEventListener("click", (e) => {
-//        let text = e.target.value;
-//        console.log(e.target.value);
-//        if (!navbadge.innerHTML.includes(text)) {
-//            navbadge.innerHTML += `<h1 class="badge bg-danger remove-badge mx-1">  ${e.target.value} <button class="not-selected badge-close">X</button> </h1>`
-//        }
-      
-//    });
-
-
-//}
-
-
-
-
-//for (i = 0; i < removebadge.length; i++) {
-//    badgeclose.addEventListener("click", () => {
-//        removebadge[i].classList.add("hide");
-//        //navbadge.remove(badgeclose)
-//    });
-//}
 

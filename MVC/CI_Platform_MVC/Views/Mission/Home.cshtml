@@ -261,7 +261,10 @@
          <div id="nav-badge-country">
 
          </div>
-         <div id="nav-badge">
+         <div id="nav-badge-city">
+
+         </div>
+         <div id="nav-badge-theme">
 
          </div>
 
@@ -273,13 +276,44 @@
             </div>
             <div class="home-upper-content-right">
                 <div class="col-custom-home">
-
-                    <select class="form-select" aria-label="Default select example">
+                    @*<form method="get">
+                        <select class="form-select" aria-label="Default select example">
                         <option selected>Name</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                        <option value="3">Three</option>
+                        <option value="Newest"><a asp-controller="Mission" asp-action="Home" asp-route-id = "Newest">Newest</a></option>
+                        <option value="Oldest"><a asp-controller="Mission" asp-action="Home" asp-route-id = "Oldest">Oldest</a></option>
+                        <option value="LowestAvailableSeats"><a asp-controller="Mission" asp-action="Home" asp-route-id = "LowestAvailableSeats">Lowest Available Seats</a></option>
+                        <option value="HighestAvailableSeats"><a asp-controller="Mission" asp-action="Home" asp-route-id = "HighestAvailableSeats">Highest Available Seats</a></option>
+                        <option value="SortByMyFavorite"><a asp-controller="Mission" asp-action="Home" asp-route-id = "SortByMyFavorite">Sort By My Favorite</a></option>
+                        <option value="SortByDeadline"><a asp-controller="Mission" asp-action="Home" asp-route-id = "SortByDeadline">Sort By Deadline</a></option>
                     </select>
+                    </form>*@
+                    <div class="sort-bar p-2">
+
+                        <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false" style="width: 100px;
+                                                     display: flex;
+                                                     justify-content: space-between;
+                                                     align-items: center;">
+                            Sort By <img src="~/Images/drop-down.png" alt="" class="d-inline" style = "margin-left : 10px ; height : 10px">
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Name">Name</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Oldest">Oldest</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Newest">Newest</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "LowestAvailableSeats">Lowest Available Seats</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "HighestAvailableSeats">Highest Available Seats</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByMyFavorite">Sort By My Favorite</a></li>
+                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByDeadline">Sort By Deadline</a></li>
+                       
+
+                       
+
+
+                        </ul>
+                
+
+                     </div>
 
 
 
@@ -306,4 +340,3 @@
 
 
  </div>
-

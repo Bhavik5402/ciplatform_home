@@ -52,7 +52,7 @@ namespace CI_Platform_MVC.Controllers
             var sessionValue = HttpContext.Session.GetString("UserEmail");
             if (!String.IsNullOrEmpty(sessionValue))
             {
-                return RedirectToAction("Home");
+                return RedirectToAction("Home" , "Mission");
             }
 
             return View();
@@ -81,7 +81,7 @@ namespace CI_Platform_MVC.Controllers
                 HttpContext.Session.SetString("UserEmail", user.Email);
                 //var Username = user.FirstName;
                 //ViewData["username"] = user.FirstName;
-                return RedirectToAction("Home");
+                return RedirectToAction("Home" , "Mission");
             }
             TempData["error"] = "Invalid Password";
             return RedirectToAction("Index");
@@ -238,37 +238,39 @@ namespace CI_Platform_MVC.Controllers
             return View();
         }
 
-        public IActionResult Home(long id=0)
-        {
-            var sessionValue = HttpContext.Session.GetString("UserEmail");
+        //public IActionResult Home(long id=0)
+        //{
+        //    var sessionValue = HttpContext.Session.GetString("UserEmail");
 
-            List<City> citylist = _UnitOfWork.City.GetCityList().Where(x => x.Name != "undefined").ToList();
-            List<MissionTheme> themelist = _UnitOfWork.MissionTheme.GetThemeList();
-            List<Mission> missionlist = _UnitOfWork.Mission.GetAllMissions();
-            List<Skill> skillList = _UnitOfWork.Skill.GetSkillList();
-            List<Country> countrylist = _UnitOfWork.Country.GetCountryList().Where(x => x.Name != "undefined").ToList();
-            var user = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == sessionValue);
-            List<City> citybycountry = _UnitOfWork.City.GetCitiesByCountry(id);
-            if(id == 0)
-            {
-                ViewBag.City = citylist;
-                ViewBag.MissionList = missionlist;
-            }
-            else
-            {
-                ViewBag.City = citybycountry;
-                ViewBag.MissionList = _UnitOfWork.Mission.GetAllMissions().Where(u => u.CountryId == id);
-            }
-            ViewBag.Country = countrylist;
+        //    List<City> citylist = _UnitOfWork.City.GetCityList().Where(x => x.Name != "undefined").ToList();
+        //    List<MissionTheme> themelist = _UnitOfWork.MissionTheme.GetThemeList();
+        //    List<Mission> missionlist = _UnitOfWork.Mission.GetAllMissions();
+        //    List<Skill> skillList = _UnitOfWork.Skill.GetSkillList();
+        //    List<Country> countrylist = _UnitOfWork.Country.GetCountryList().Where(x => x.Name != "undefined").ToList();
+        //    var user = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == sessionValue);
+        //    List<City> citybycountry = _UnitOfWork.City.GetCitiesByCountry(id);
+        //    if(id == 0)
+        //    {
+        //        ViewBag.City = citylist;
+        //        ViewBag.MissionList = missionlist;
+        //    }
+        //    else
+        //    {
+        //        ViewBag.City = citybycountry;
+        //        ViewBag.MissionList = _UnitOfWork.Mission.GetAllMissions().Where(u => u.CountryId == id);
+        //    }
+        //    ViewBag.Country = countrylist;
 
-            ViewBag.ThemeList = themelist;
+        //    ViewBag.ThemeList = themelist;
 
-            ViewBag.SkillList = skillList;
+        //    ViewBag.SkillList = skillList;
 
-            ViewBag.User = user;
+        //    //ViewBag.MissionList = missionlist;
+        //    //missionlist[1].StartDate - TimeSpan.FromDays(1);
+        //    ViewBag.User = user;
             
-            return View();
-        }
+        //    return View();
+        //}
 
         public IActionResult temp()
         {
