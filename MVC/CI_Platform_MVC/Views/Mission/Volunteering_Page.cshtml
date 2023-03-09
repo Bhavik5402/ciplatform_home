@@ -1,9 +1,13 @@
-﻿@{
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
+
+@{
     Layout = "_LayoutLandingPage";
 }
 @{
     ViewData["Title"] = "Volunteering_Page";
 }
+
+@model MissionVM
 
 <div class="container">
     <div class="row">
@@ -62,16 +66,14 @@
         </div>
         <div class="col-lg-6">
             <div class="border-bottom pb-3">
-                <h1>CSR initiative stands for Coffee & Farmer Equity</h1>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates, aspernatur eos. Nesciunt
-                    provident sequi mollitia quaerat exercitationem ipsa sunt eum nihil, ducimus possimus consequatur
-                    eaque, minus, veritatis beatae distinctio. Rem?
+                <h1> @Model.Mission.Title </h1>
+                <p> @Model.Mission.Description
                 </p>
             </div>
             <div>
                 <div class="mission-theme">
                     <span>
-                        Plant 100000 Trees
+                        Plant 1000 trees
                     </span>
                 </div>
                 <div class="timestamp row mt-4">
@@ -155,7 +157,7 @@
                 </div>
                 <div>
                     <p class="info-type">City</p>
-                    <p class="info">London</p>
+                    <p class="info">@Model.Mission.City.Name</p>
                 </div>
             </div>
             <div class="mission-info">
@@ -164,7 +166,7 @@
                 </div>
                 <div>
                     <p class="info-type">Theme</p>
-                    <p class="info">Environment</p>
+                    <p class="info">@Model.Mission.Theme.Title</p>
                 </div>
             </div>
             <div class="mission-info">
@@ -182,7 +184,7 @@
                 </div>
                 <div>
                     <p class="info-type">Organization</p>
-                    <p class="info">CSE Network</p>
+                    <p class="info">@Model.Mission.OrganizationName</p>
                 </div>
             </div>
         </div>
@@ -403,6 +405,6 @@
 
     <div class="relatedmission mt-5">
         <h1 class="text-center mb-4">Related Mission</h1>
-        <partial name="_GridView" />
+        <partial name="_relatedMissions" />
     </div>
 </div>

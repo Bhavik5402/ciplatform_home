@@ -5,7 +5,7 @@
 <div id="grid-view">
            <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3  g-4" id="list"> 
 
-           @foreach (var item in Model.Missions)
+           @foreach (var item in Model.RelatedMissions)
            {
                <div class="col mission-list">
                 <div class="card h-100">
@@ -30,9 +30,6 @@
                     <div class="mission-theme">
                             <p class="mission-theme-list">@item.Theme.Title</p>
                     </div>
-                    @*<div class="mission-skill">
-                            <p class="mission-skill-list">@item.</p>
-                    </div>*@
                     <div class="card-body border-bottom">
                         <h5 class="card-title">@item.Title</h5>
                         <p class="card-text">@item.ShortDescription</p>
@@ -88,7 +85,7 @@
                     </div>
                     <div class="card-footer text-center">
                         <form>
-                            <button asp-controller="Mission" asp-action="Volunteering_Page" asp-route-id="@item.MissionId" asp-route-themeid="@item.ThemeId">Apply <span><img src="~/Images/right-arrow.png" alt=""></span></button>
+                            <button asp-controller="Mission" asp-action="Volunteering_Page" asp-route-id="@item.MissionId" asp-route-theme_id="@item.ThemeId">Apply <span><img src="~/Images/right-arrow.png" alt=""></span></button>
                         </form>
                         
                     </div>

@@ -1,4 +1,7 @@
-﻿<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
+
+@model MissionVM 
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
                     aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
                         <div class="modal-content" style="height : 550px">
@@ -10,7 +13,7 @@
                             <div class="modal-body">
                                 <div class="container">
 
-                                    @foreach (var item in ViewBag.AllUsers)
+                                    @foreach (var item in Model.users)
                                     {
                                         <div class="volunteer-rec">
                                             <div>

@@ -21,8 +21,20 @@ namespace CI_Platform_MVC.Reposatory.Repositories
         public List<Mission> GetAllMissions()
         {
             //List<Mission> missionList = GetAll().ToList();
-            var missionList = _db.Missions.Include(m => m.City).Include(m => m.Theme).ToList();
+            var missionList = _db.Missions.Include(m => m.City).Include(m => m.Theme).Include(m=>m.MissionSkills).ToList();
             return missionList;
+        }
+
+        public Mission GetMission(long id)
+        {
+            var mission = _db.Missions.Include(m => m.City).Include(m => m.Theme).Where(u=>u.MissionId == id).FirstOrDefault();
+            return mission;
+        }
+
+        public List<Mission> RelatedMissions(long theme_id)
+        {
+            var relatedMissionList = _db.Missions.Where(u => u.ThemeId == theme_id).ToList();
+            return relatedMissionList;
         }
     }
 }

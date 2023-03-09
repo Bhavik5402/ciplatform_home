@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4TvcwWUqrW2N6r2aiUCcu2aiB06NZH1odl/VjJNTFcEn+nypLJPQQTC/f9vua1HsxFSEHWEesVn8dI8ZAyoL1g==",
+  "dgSpecHash": "w0P6qPdoejA642/Er8M85oLaiHWqJlRWKoMxItU4K1zw4y21L0CuB01HhSSi1iesAfYjIuCQY7Tmr6PGTN+oDg==",
   "success": true,
   "projectFilePath": "D:\\BOOKSTORE TUT\\ciplatform_home\\MVC\\CI_Platform_MVC.Reposatory\\CI_Platform_MVC.Reposatory.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,7 @@
     "C:\\Users\\Bhavik\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Bhavik\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Bhavik\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Bhavik\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\Bhavik\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Bhavik\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Bhavik\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",

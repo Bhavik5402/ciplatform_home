@@ -1,4 +1,5 @@
-﻿@{
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
+@{
     Layout = "_LayoutLandingPage";
 }
 
@@ -7,7 +8,11 @@
 
 }
 
+@model MissionVM
+@{
+    ViewBag.count = @Model.Missions.Count();
 
+}
 
 <div class=" shadow p-3 mb-5 bg-body rounded">
     <div class="container">
@@ -267,12 +272,15 @@
          <div id="nav-badge-theme">
 
          </div>
+         <div id="nav-badge-skill">
+
+         </div>
 
         </div>
 
       <div class="home-upper-content">
             <div class="home-upper-content-left">
-                <p>Explore <strong>72 missions</strong></p>
+                <p>Explore <strong>@Model.Missions.Count() missions</strong></p>
             </div>
             <div class="home-upper-content-right">
                 <div class="col-custom-home">
@@ -294,17 +302,25 @@
                                                      display: flex;
                                                      justify-content: space-between;
                                                      align-items: center;">
-                            Sort By <img src="~/Images/drop-down.png" alt="" class="d-inline" style = "margin-left : 10px ; height : 10px">
+                            SortBy <img src="~/Images/drop-down.png" alt="" class="d-inline" style = "margin-left : 10px ; height : 10px;">
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Name">Name</a></li>
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Oldest">Oldest</a></li>
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Newest">Newest</a></li>
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "LowestAvailableSeats">Lowest Available Seats</a></li>
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "HighestAvailableSeats">Highest Available Seats</a></li>
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByMyFavorite">Sort By My Favorite</a></li>
-                           <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByDeadline">Sort By Deadline</a></li>
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Name">Name</a></li>*@
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Oldest">Oldest</a></li>*@
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Newest">Newest</a></li>*@
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "LowestAvailableSeats">Lowest Available Seats</a></li>*@
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "HighestAvailableSeats">Highest Available Seats</a></li>*@
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByMyFavorite">Sort By My Favorite</a></li>*@
+                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByDeadline">Sort By Deadline</a></li>*@
+
+                           <li><a class="dropdown-item country-name sortby" role="button">Name</a></li>
+                           <li><a class="dropdown-item country-name sortby" role="button">Oldest</a></li>
+                           <li><a class="dropdown-item country-name sortby" role="button">Newest</a></li>
+                           <li><a class="dropdown-item country-name sortby" role="button">LowestAvailableSeats</a></li>
+                           <li><a class="dropdown-item country-name sortby" role="button">HighestAvailableSeats</a></li>
+                           <li><a class="dropdown-item country-name sortby" role="button">SortByMyFavorite</a></li>
+                           <li><a class="dropdown-item country-name sortby" role="button">SortByDeadline</a></li>
                        
 
                        
@@ -337,6 +353,31 @@
         <partial name="_GridView" />
         <partial name="_ModalData" />
         <partial name="_ListView" />
+        @*<partial name="_pagination" />*@
+        
+            <nav aria-label="Page navigation example">
+        <ul class="pagination d-flex justify-content-center mt-3">
+            <li class="page-item">
+                <a class="page-link" href="#" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+          
+          @*count = @Model.Missions.Count()/9 *@
+          @for (int i = 1; i <= ViewBag.count/9; i++)
+           {
+               <li class="page-item"><a class="page-link pagination" href="#">@i</a></li>
+           }
+            
+            @*<li class="page-item"><a class="page-link pagination" href="#">2</a></li>*@
+            @*<li class="page-item"><a class="page-link pagination" href="#">3</a></li>*@
+            <li class="page-item">
+                <a class="page-link" href="#" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+         </nav>
 
 
  </div>

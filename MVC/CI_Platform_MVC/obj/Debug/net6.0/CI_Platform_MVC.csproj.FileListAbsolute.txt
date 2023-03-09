@@ -1993,4 +1993,3 @@ D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\obj\Debug\net6.0\refint\CI_
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.pdb
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\obj\Debug\net6.0\CI_Platform_MVC.genruntimeconfig.cache
 D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\obj\Debug\net6.0\ref\CI_Platform_MVC.dll
-D:\BOOKSTORE TUT\ciplatform_home\MVC\CI_Platform_MVC\bin\Debug\net6.0\appsettings.json

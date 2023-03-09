@@ -1,4 +1,7 @@
-﻿            <div class="row">
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
+@model MissionVM   
+         
+<div class="row">
                 <div class="col-md-4 col-sm-12 border-end">
                    
                     <img src="~/Images/search.png" alt="">
@@ -22,7 +25,7 @@
 
                        <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-id="0">All</a></li>
 
-                       @foreach (var item in ViewBag.Country)
+                       @foreach (var item in Model.country)
                        {
                            <li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-id = "@item.CountryId">@item.Name</a></li>
                        }
@@ -41,9 +44,9 @@
                         City <img src="~/Images/drop-down.png" alt="">
                     </a>
                     <ul class="dropdown-menu ps-2 scrollable-menu" aria-labelledby="navbarDropdown">
-                        @foreach (var item in ViewBag.City)
+                        @foreach (var item in Model.cities)
                         {
-                             <li><input class="form-check-input city-name" type="checkbox" value="@item.Name" id="flexCheckDefault">
+                             <li><input class="form-check-input city-name" type="checkbox" value="@item.Name" id="@item.CityId">
                         <label class="form-check-label" for="flexCheckDefault">
                                 @item.Name
                         </label></li>
@@ -63,7 +66,7 @@
                     </a>
                     <ul class="dropdown-menu scrollable-menu ps-2" aria-labelledby="navbarDropdown">
 
-                        @foreach (var item in @ViewBag.ThemeList)
+                        @foreach (var item in Model.missionThemes)
                         {
                             <li><input class="form-check-input theme-name" type="checkbox" value="@item.Title" id="flexCheckDefault">
                         
@@ -85,9 +88,9 @@
                     </a>
                     <ul class="dropdown-menu scrollable-menu ps-2" aria-labelledby="navbarDropdown">
 
-                        @foreach (var item in @ViewBag.SkillList)
+                        @foreach (var item in Model.skills)
                         {
-                            <li><input class="form-check-input city-name" type="checkbox" value="@item.SkillName" id="flexCheckDefault">
+                            <li><input class="form-check-input skill-name" type="checkbox" value="@item.SkillName" id="flexCheckDefault">
                         <span>
                                 @item.SkillName
                         </span></li>
@@ -238,3 +241,4 @@
                     </div>
                 </div>
             </div>
+

@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
+
+@model MissionVM
+
+<!DOCTYPE html>
 
 <html>
 <head>
@@ -68,7 +72,7 @@
                 <img class="header-user-img dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" src="~/Images/user-img.png" alt="User Image">
     
                 <a class="nav-link dropdown user-img-text d-inline" href="#" id="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    <span style="margin-left: 5px;" >@ViewBag.User.FirstName @ViewBag.User.LastName</span><img src="~/Images/drop-down.png" alt="" style="margin-left: 5px;">
+                    <span style="margin-left: 5px;" >@Model.User.FirstName @Model.User.LastName</span><img src="~/Images/drop-down.png" alt="" style="margin-left: 5px;">
                 </a>
                   <ul class="dropdown-menu user-dropdown-custom dropdown-menu-end" aria-labelledby="navbarDropdown">
                     <li><a class="dropdown-item" href="#">Dashborad</a></li>

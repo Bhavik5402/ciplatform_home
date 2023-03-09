@@ -1,8 +1,11 @@
-﻿<div id="list-view" class="hide">
+﻿@using CI_Platform_MVC.Entity.Models.ViewModel
+
+@model MissionVM
+<div id="list-view" class="hide">
 
     <div id="list">
 
-     @foreach (var item in ViewBag.MissionList)
+     @foreach (var item in Model.Missions)
      {
            <div class="card mb-4 mission-list" >
         
@@ -72,7 +75,7 @@
                                     <div class="seats-left d-inline-flex align-items-center">
                                         <img src="~/Images/deadline.png" alt="">
                                         <div class="p-1">
-                                            <p class="mb-0" style="font-size: 15px;"><strong>@((item.StartDate - TimeSpan.FromDays(1)).ToString("dd/MM/yyyy"))</strong></p>
+                                            <p class="mb-0" style="font-size: 15px;"><strong>@((item.StartDate - TimeSpan.FromDays(1)).Value.ToShortDateString())</strong></p>
                                             <p class="mb-0">Deadline</p>
                                         </div>
                                     </div>
@@ -81,8 +84,8 @@
                                          <div class="seats-left d-inline-flex align-items-center">
                                         <img src="~/Images/calender.png" alt="">
                                         <div class="p-1">
-                                            <p class="mb-0" style="font-size: 15px;">From @item.StartDate.ToString("dd/mm/yyyy")</p>
-                                            <p class="mb-0">Until @item.EndDate.ToString("dd/mm/yyyy")</p>
+                                            <p class="mb-0" style="font-size: 15px;">From @item.StartDate.Value.ToShortDateString()</p>
+                                            <p class="mb-0">Until @item.EndDate.Value.ToShortDateString()</p>
                                         </div>
                                     </div>
                                     <div class="seats-left d-inline-flex align-items-center">
