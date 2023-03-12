@@ -90,14 +90,29 @@ for (let i = 0; i < theme_name.length; i++) {
 }
 
 //pagination function
-var pageNo = "1";
+var pageNo = 0 ;
 function AddPagination() {
     pageNo = event.target.innerHTML;
-    //pageNo = Number(pageNo)
-    //pageNo = pageNo
+    pageNo = Number.parseInt(pageNo);
     sendInfo();
 }
 
+
+//nextpointer
+
+function NextPointer() {
+    pageNo = Number.parseInt(pageNo);
+    pageNo = pageNo + 1;
+    sendInfo();
+}
+
+//prevpointer
+
+function PrevPointer() {
+    pageNo = Number.parseInt(pageNo);
+    pageNo = pageNo - 1;
+    sendInfo();
+}
 
 //sortBy function
 var sortname; 
@@ -108,52 +123,55 @@ function SortByFilter() {
 
 
 
-var obj = {
-    city: citylist,
-    theme: themelist
-}
-
-for (const item in obj) {
-    console.log(obj[item]);
-}
 
 
 
+//function search_mission() {
+//    let count=0;
+//    let input = input_text.value
+//    input = input.toLowerCase();
 
+
+//    for (i = 0; i < y.length; i++) {
+//        if (!x[i].innerHTML.toLowerCase().includes(input)) {
+//            y[i].classList.add("hide");
+            
+
+//        }
+//        else {
+//            y[i].classList.remove("hide");
+            
+
+//        }
+//    }
+
+
+//    for (i = 0; i < y.length; i++) {
+//        if (y[i].classList.contains("hide")) {
+//            count++;
+//        }
+//    }
+
+//    console.log(count, y.length)
+
+//    if (count == y.length) {
+//        notfound.classList.remove('hide');
+//    }
+//    else {
+//        notfound.classList.add('hide');
+//    }
+
+//}
+
+let inputData = "";
 function search_mission() {
-    let count=0;
-    let input = input_text.value
-    input = input.toLowerCase();
+    let count = 0;
+    inputData = input_text.value
+    inputData = inputData.toLowerCase();
 
+    sendInfo();
 
-    for (i = 0; i < y.length; i++) {
-        if (!x[i].innerHTML.toLowerCase().includes(input)) {
-            y[i].classList.add("hide");
-            
-
-        }
-        else {
-            y[i].classList.remove("hide");
-            
-
-        }
-    }
-
-
-    for (i = 0; i < y.length; i++) {
-        if (y[i].classList.contains("hide")) {
-            count++;
-        }
-    }
-
-    console.log(count, y.length)
-
-    if (count == y.length) {
-        notfound.classList.remove('hide');
-    }
-    else {
-        notfound.classList.add('hide');
-    }
+  
 
 }
 
@@ -162,15 +180,27 @@ function sendInfo() {
     filterthemestr = "";
     filterSkillstr = "";
     let sort = sortname;
-    
-    if (filterList.size == 0 && filterTheme.size == 0 && filterSkill.size == 0 && sort == null) {
-        var url = "/Mission/Home?page=" + pageNo;
+    let searchInput = inputData;
+
+
+
+    if (filterList.size == 0 && filterTheme.size == 0 && filterSkill.size == 0 && searchInput == "" && sort == null && pageNo == 0 ) {
+
+        var url = "/Mission/Home/";
         window.location.reload();
     }
 
 
+    else if (filterList.size == 0 && filterTheme.size == 0 && filterSkill.size == 0 && searchInput == "" && sort == null)
+    {
+        var url = "/Mission/Home?page=" + pageNo ;
+    }
 
-    else if (filterList.size == 0 && filterTheme.size == 0 && filterSkill.size == 0) {
+
+
+
+
+    else if (filterList.size == 0 && filterTheme.size == 0 && filterSkill.size == 0 && searchInput == "") {
 
         var url = "/Mission/Home?sort=" + sort + "&page=" + pageNo;
     }
@@ -186,9 +216,9 @@ function sendInfo() {
         for (const item of filterSkill) {
             filterSkillstr += item + ",";
         }
-        let obj = { city: filtercitystr, theme: filterthemestr, skill: filterSkillstr }
+        let obj = { city: filtercitystr, theme: filterthemestr, skill: filterSkillstr, searchItem : searchInput }
 
-        var url = "/Mission/Home?filter=" + JSON.stringify(obj) + "&page=" + pageNo;
+        var url = "/Mission/Home?filter=" + JSON.stringify(obj) + "&page=" + pageNo ;
     }
     else {
         for (const item of filterList) {
@@ -200,9 +230,9 @@ function sendInfo() {
         for (const item of filterSkill) {
             filterSkillstr += item + ",";
         }
-        let obj = { city: filtercitystr, theme: filterthemestr, skill: filterSkillstr }
+        let obj = { city: filtercitystr, theme: filterthemestr, skill: filterSkillstr, searchItem: searchInput}
 
-        var url = "/Mission/Home?filter=" + JSON.stringify(obj) + "&sort=" + sort + "&page=" + pageNo;
+        var url = "/Mission/Home?filter=" + JSON.stringify(obj) + "&sort=" + sort + "&page=" + pageNo ;
     }
 
     
@@ -245,7 +275,7 @@ function sendInfo() {
                         <p class="card-text">${data[i].value.shortDescription}</p>
                         <div class="mission-organization">
                             <div>
-                                <p>${data[i].value.OrganizationName}</p>
+                                <p>${data[i].value.organizationName}</p>
                             </div>
                             <div>
                                 <img src="/images/selected-star.png" alt="">
@@ -416,27 +446,6 @@ function filterMissions() {
     addFilterTag(text);
     sendInfo();
 
-    //for (i = 0; i < y.length; i++) {
-    //    if (y[i].classList.contains("hide")) {
-    //        count++;
-    //    }
-    //}
-
-    //console.log(count, y.length)
-
-    //if (count == y.leng) {
-    //    notfound.classList.remove('hide');
-    //}
-    //else {
-    //    notfound.classList.add('hide');
-    //}
-    //if (grid_view)
-    //if (y.length == 0) {
-        //notfound.classList.remove('hide');
-    //}
-    //else {
-        //notfound.classList.add('hide');
-    //}
     
 }
 
@@ -463,66 +472,7 @@ function addFilterTag(text) {
 
     navbadge_city.innerHTML = temp;
 
-    //if (filterList.size != 0) {
-    //    if (filterTheme.size == 0) {
-    //        //hiddencity = []
-    //        for (const item of citylist) {
-    //            if (!filterList.has(item)) {
-    //                //let nextIndex = citylist.indexOf(item);
-    //                //for (const cityobj of hiddencity) {
-    //                //    if (cityobj["city"] == item) {
-    //                //        nextIndex = citylist.indexOf(item, cityobj["index"] + 1);
-    //                //    }
-                        
-    //                //}
-    //                //y[nextIndex].classList.add("hide");
-    //                //y[nextIndex + (y.length / 2)].classList.add("hide");
-    //                //hiddencity.push({ index: nextIndex, city: item });
-    //                hideCities(item)
 
-    //            }
-    //            else {
-    //                //var mulCity = 
-    //                //y[citylist.indexOf(item)].classList.remove("hide");
-    //                //y[citylist.indexOf(item) + (y.length / 2)].classList.remove("hide");
-    //                displayCities(item)
-    //            }
-    //        }
-    //    }
-    //    else {
-    //        for (const item of filterTheme) {
-    //            console.log(themecitylist[themelist.indexOf(item)].city, themecitylist[themelist.indexOf(item)].theme);
-    //            if (!filterList.has(themecitylist[themelist.indexOf(item)].city)) {
-    //                hideCities(themecitylist[themelist.indexOf(item)].city)
-    //                //y[themelist.indexOf(item)].classList.add("hide");
-    //                //y[themelist.indexOf(item) + (y.length / 2)].classList.add("hide");
-    //            }
-    //            else {
-    //                displayCities(themecitylist[themelist.indexOf(item)].city)
-    //                //y[themelist.indexOf(item)].classList.remove("hide");
-    //                //y[themelist.indexOf(item) + (y.length / 2)].classList.remove("hide");
-    //            }
-    //        }
-
-    //    }
-
-    //}
-    //else {
-    //    for (let i = 0; i < y.length; i++) {
-    //        y[i].classList.remove("hide");
-    //    }
-
-    //    if (filterTheme.size != 0) {
-    //        for (const item of themelist) {
-    //            if (!filterTheme.has(item)) {
-    //                hideThemes(item);
-    //            }
-    //            else {
-    //                displayThemes(item);
-    //            }
-    //        }
-    //    }
-    //}
 }
    
 
@@ -578,59 +528,11 @@ function addFilterThemeTag(text) {
 
     navbadge_theme.innerHTML = temp;
 
-    //if (filterTheme.size != 0) {
-    //    if (filterList.size == 0) {
-    //        for (const item of themelist) {
-    //            if (!filterTheme.has(item)) {
-    //                hideThemes(item)
-    //                //y[themelist.indexOf(item)].classList.add("hide");
-    //                //y[themelist.indexOf(item) + (y.length / 2)].classList.add("hide");
-    //            }
-    //            else {
-    //                //y[themelist.indexOf(item)].classList.remove("hide");
-    //                //y[themelist.indexOf(item) + (y.length / 2)].classList.remove("hide");
-    //                displayThemes(item)
-    //            }
-    //        }
-    //    }
-    //    else {
-    //        for (const item of filterList) {
-    //            if (!filterTheme.has(themecitylist[citylist.indexOf(item)].theme)) {
-    //                hideThemes(themecitylist[citylist.indexOf(item)].theme)
-    //                //y[citylist.indexOf(item)].classList.add("hide");
-    //                //y[citylist.indexOf(item) + (y.length / 2)].classList.add("hide");
-    //            }
-    //            else {
-    //                displayThemes(themecitylist[citylist.indexOf(item)].theme)
-    //                //y[citylist.indexOf(item)].classList.remove("hide");
-    //                //y[citylist.indexOf(item) + (y.length / 2)].classList.remove("hide");
-    //            }
-    //        }
-
-    //    }
-
-    //}
-    //else {
-    //    for (let i = 0; i < y.length; i++) {
-    //        y[i].classList.remove("hide");
-    //    }
-            
-    //    if (filterList.size != 0) {
-    //        for (const item of citylist) {
-    //            if (!filterList.has(item)) {
-    //                hideCities(item);
-    //            }
-    //            else {
-    //                displayCities(item);
-    //            }
-    //        }
-    //    }
-    //}
-
+   
 }
 
 
-//arr = new Array(Object)
+
 
 
 for (i = 0; i < country_name.length; i++) {
@@ -648,79 +550,4 @@ for (i = 0; i < country_name.length; i++) {
 
 
 }
-
-
-function hideCities(cityName) {
-    var mulCity = citylist.filter(c => c == cityName);
-    console.log(mulCity);
-
-    if (mulCity.length > 1) {
-        let nextItem = citylist.indexOf(cityName);
-        for (const city of mulCity) {
-            y[nextItem].classList.add("hide");
-            y[nextItem + (y.length / 2)].classList.add("hide");
-            nextItem = citylist.indexOf(cityName, nextItem + 1);
-        }
-    }
-    else {
-        y[citylist.indexOf(cityName)].classList.add("hide");
-        y[citylist.indexOf(cityName) + (y.length / 2)].classList.add("hide");
-    }
-}
-
-function displayCities(cityName) {
-    var mulCity = citylist.filter(c => c == cityName);
-    console.log(mulCity);
-
-    if (mulCity.length > 1) {
-        let nextItem = citylist.indexOf(cityName);
-        for (const city of mulCity) {
-            y[nextItem].classList.remove("hide");
-            y[nextItem + (y.length / 2)].classList.remove("hide");
-            nextItem = citylist.indexOf(cityName, nextItem + 1);
-        }
-    }
-    else {
-        y[citylist.indexOf(cityName)].classList.remove("hide");
-        y[citylist.indexOf(cityName) + (y.length / 2)].classList.remove("hide");
-    }
-}
-
-function hideThemes(themeTitle) {
-    var mulTheme = themelist.filter(c => c == themeTitle);
-    console.log(mulTheme);
-
-    if (mulTheme.length > 1) {
-        let nextItem = themelist.indexOf(themeTitle);
-        for (const theme of mulTheme) {
-            y[nextItem].classList.add("hide");
-            y[nextItem + (y.length / 2)].classList.add("hide");
-            nextItem = themelist.indexOf(themeTitle, nextItem + 1);
-        }
-    }
-    else {
-        y[themelist.indexOf(themeTitle)].classList.add("hide");
-        y[themelist.indexOf(themeTitle) + (y.length / 2)].classList.add("hide");
-    }
-}
-
-function displayThemes(themeTitle) {
-    var mulTheme = themelist.filter(c => c == themeTitle);
-    console.log(mulTheme);
-
-    if (mulTheme.length > 1) {
-        let nextItem = themelist.indexOf(themeTitle);
-        for (const city of mulTheme) {
-            y[nextItem].classList.remove("hide");
-            y[nextItem + (y.length / 2)].classList.remove("hide");
-            nextItem = themelist.indexOf(themeTitle, nextItem + 1);
-        }
-    }
-    else {
-        y[themelist.indexOf(themeTitle)].classList.remove("hide");
-        y[themelist.indexOf(themeTitle) + (y.length / 2)].classList.remove("hide");
-    }
-}
-
-
 

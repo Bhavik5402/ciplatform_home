@@ -17,7 +17,7 @@ namespace CI_Platform_MVC.Reposatory.Repositories
         {
             _UnitOfWork = unitOfWork;
         }
-        public MissionVM GetMissionVM(string sessionValue , long id = 0, string sort = "" ,  int pageNumber = 1)
+        public MissionVM GetMissionVM(string sessionValue , long id = 0, string sort = "" )
         {
             MissionVM missionVM = new();
 
@@ -27,10 +27,10 @@ namespace CI_Platform_MVC.Reposatory.Repositories
             missionVM.country = _UnitOfWork.Country.GetAll().Where(x => x.Name != "undefined");
             missionVM.User = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == sessionValue);
             missionVM.users = _UnitOfWork.User.GetAll().Where(u => u.Email != sessionValue);
-            //missionVM.Mission = _UnitOfWork.Mission.GetMission()
+            
 
 
-            //missionVM.Missions = missionlist.Skip((pageNumber - 1) * 9).Take(9);
+
 
             if (id == 0)
             {
@@ -56,7 +56,7 @@ namespace CI_Platform_MVC.Reposatory.Repositories
                 {
                     missionVM.Missions = missionlist.OrderBy(m => m.StartDate).ToList();
                 }
-                //ViewBag.MissionList = missionlist;
+                
             }
             else
             {
@@ -82,15 +82,11 @@ namespace CI_Platform_MVC.Reposatory.Repositories
                     missionVM.Missions = missionlistcountry.OrderBy(m => m.StartDate).ToList();
                 }
             }
-
-
-
-
-            return missionVM;
+           return missionVM;
 
         }
 
-        public IEnumerable<Mission> ApplyFilter(string filter, string sessionValue, long id = 0, string sort = "")
+        public IEnumerable<Mission> ApplyFilter(string filter, string sessionValue, long id = 0, string sort = "" , int page =1)
         {
             MissionVM missionObj = GetMissionVM(sessionValue, id, sort);
             IEnumerable<Mission> missions = missionObj.Missions;
@@ -102,6 +98,7 @@ namespace CI_Platform_MVC.Reposatory.Repositories
                 var cityName = obj.Value<string>("city");
                 var themeName = obj.Value<string>("theme");
                 var skillName = obj.Value<string>("skill");
+                var searchData = obj.Value<string>("searchItem");
                 var filterCity = cityName.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
                 var filterTheme = themeName.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
                 var filterSkill = skillName.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
@@ -112,13 +109,11 @@ namespace CI_Platform_MVC.Reposatory.Repositories
                     filterMissions = missions.Where(m => m.City.Name == filterCity[0] && m.Theme.Title == filterTheme[0] && m.MissionSkills.Any(s => s.Skill.SkillName == filterSkill[0]));
                     foreach (string city in filterCity)
                     {
-                        //IEnumerable<Mission> cityFirst = missions.Where(u => u.City.Name == city);
                         foreach (string theme in filterTheme)
                         {
                             foreach (string skill in filterSkill)
                             {
                                 missionsList = missionsList.Where(m => m.Theme.Title == theme && m.City.Name == city && m.MissionSkills.Any(s => s.Skill.SkillName == skill));
-
                             }
                         }
                         filterMissions = filterMissions.Concat(missionsList);
@@ -193,12 +188,9 @@ namespace CI_Platform_MVC.Reposatory.Repositories
                         filterMissions = filterMissions.Concat(missions.Where(u => u.MissionSkills.Any(s => s.Skill.SkillName == item)));
                     }
                 }
-
-
-
                 else
                 {
-                    filterMissions = missions.Where(m => m.City.Name == filterCity[0] && m.Theme.Title == filterTheme[0]);
+                    filterMissions = missions;
                 }
 
                 filterMissions = filterMissions.Distinct();
@@ -221,8 +213,17 @@ namespace CI_Platform_MVC.Reposatory.Repositories
                 {
                     filterMissions = filterMissions.OrderBy(m => m.StartDate).ToList();
                 }
+
+
+                if(searchData != "")
+                {
+                    filterMissions = filterMissions.Where(u => u.Title.ToLower().Contains(searchData));
+                }
+
+                filterMissions = filterMissions.Skip((page-1) * 9).Take(9);
                 return filterMissions;
             }
+            missions = missions.Skip((page-1) * 9).Take(9);
             return missions;
 
             
@@ -231,15 +232,29 @@ namespace CI_Platform_MVC.Reposatory.Repositories
 
 
         
-        public MissionVM GetMissionPage(long id , string sessionValue , long theme_id)
+        public MissionVM GetMissionPage(long id , string sessionValue)
         {
             MissionVM missionVM = new();
+            missionVM.skills = _UnitOfWork.Skill.GetAll();
+            IEnumerable<MissionRating> missionRating = _UnitOfWork.MissionRating.GetAll().Where(m=>m.MissionId == id);
+            int sum = 0;
+            foreach (MissionRating rating in missionRating)
+            {
+                sum += rating.Rating;
+            }
+            if(sum > 0)
+            {
+                missionVM.AvgRating = sum/missionRating.Count();
+            }
+            else
+            {
+                missionVM.AvgRating = 0;
+            }
             missionVM.Mission = _UnitOfWork.Mission.GetMission(id);
             missionVM.User = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == sessionValue);
             missionVM.users = _UnitOfWork.User.GetAll().Where(u => u.Email != sessionValue);
-            missionVM.RelatedMissions = _UnitOfWork.Mission.RelatedMissions(theme_id);
+            missionVM.RelatedMissions = _UnitOfWork.Mission.RelatedMissions(id);
             return missionVM;
-            //return mission;
         }
 
 

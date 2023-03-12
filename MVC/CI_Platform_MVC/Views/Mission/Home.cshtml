@@ -9,255 +9,14 @@
 }
 
 @model MissionVM
-@{
-    ViewBag.count = @Model.Missions.Count();
-
-}
 
 <div class=" shadow p-3 mb-5 bg-body rounded">
     <div class="container">
 
         <partial name = "_header" />
-@*            <div class="row">
-                <div class="col-md-4 col-sm-12 border-end">
-                   
-                    <img src="~/Images/search.png" alt="">
-                    <input class="input-field " type="search" placeholder="Search mission..." id="searchbar">
-                    
-                    <button class="img-filter" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample1"
-                        aria-controls="offcanvasExample"><img src="~/Images/filter.png" alt=""></button>
 
-                   
-                </div>
-                
-
-                <div class="col-2 border-end col-custom">
-
-                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Country <img src="~/Images/drop-down.png" alt="">
-                    </a>
-                    <ul class="dropdown-menu scrollable-menu" aria-labelledby="navbarDropdown">
-
-
-                       <li><a class="dropdown-item country-name" href="#" role="button">All</a></li>
-                       <li><a class="dropdown-item country-name" href="#" role="button">America</a></li>
-                        <li><a class="dropdown-item country-name" href="#" role="button">China</a></li>
-                        <li><a class="dropdown-item country-name" href="#" role="button">Russia</a></li>
-                        <li><a class="dropdown-item country-name" href="#" role="button">Africa</a></li>
-
-                    </ul>
-                
-
-                </div>
-                <div class="col-2 border-end col-custom">
-
-                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        City <img src="~/Images/drop-down.png" alt="">
-                    </a>
-                    <ul class="dropdown-menu ps-2 scrollable-menu" aria-labelledby="navbarDropdown">
-                        
-                        <li><input class="form-check-input city-name" type="checkbox" value="Ahmedabad" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Ahmedabad
-                        </label></li>
-
-                        <li><input class="form-check-input city-name" type="checkbox" value="Baroda" id="flexCheckDefault">
-                        <label class="form-check-label city-name" for="flexCheckDefault">
-                                Baroda
-                        </label></li>
-
-                        <li><input class="form-check-input city-name" type="checkbox" value="Vadnagar" id="flexCheckDefault">
-                        <label class="form-check-label city-name" for="flexCheckDefault">
-                                Vadnagar
-                        </label></li>
-                        
-                    </ul>
-
-
-                </div>
-                <div class="col-2 border-end col-custom">
-
-                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Themes <img src="~/Images/drop-down.png" alt="">
-                    </a>
-                    <ul class="dropdown-menu scrollable-menu ps-2" aria-labelledby="navbarDropdown">
-                        <li><input class="form-check-input city-name" type="checkbox" value="Theme-1" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Theme-1
-                        </label></li>
-                        <li><input class="form-check-input city-name" type="checkbox" value="Theme-2" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Theme-2
-                        </label></li>
-                                     
-                    </ul>
-
-
-                </div>
-                <div class="col-2 border-end col-custom">
-
-                    <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Skills <img src="~/Images/drop-down.png" alt="">
-                    </a>
-                    <ul class="dropdown-menu scrollable-menu ps-2" aria-labelledby="navbarDropdown">
-                         <li><input class="form-check-input city-name" type="checkbox" value="Skill-1" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Skill-1
-                        </label></li>
-                        <li><input class="form-check-input city-name" type="checkbox" value="Skill-2" id="flexCheckDefault">
-                        <label class="form-check-label" for="flexCheckDefault">
-                                Skill-2
-                        </label></li>
-                       
-                    </ul>
-
-
-                </div>
-
-
-
-                <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample1"
-                    aria-labelledby="offcanvasExampleLabel">
-                    <div class="offcanvas-header">
-                        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Clear All</h5>
-                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
-                            aria-label="Close"></button>
-                    </div>
-                    <div class="offcanvas-body">
-                        <div class="col-sm-12 col-custom-offcanvas">
-                            
-
-                            <div class="accordion border-none" id="accordionExample">
-                                <div class="accordion-item border-none">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="false"
-                                            aria-controls="collapseOne">
-                                            Country
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse"
-                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckDefault">
-                                                <label class="form-check-label" for="flexCheckDefault">
-                                                    Default checkbox
-                                                </label>
-                                            </div>
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckChecked" checked>
-                                                <label class="form-check-label" for="flexCheckChecked">
-                                                    Checked checkbox
-                                                </label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border-none">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            City
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse"
-                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckDefault">
-                                                <label class="form-check-label" for="flexCheckDefault">
-                                                    Default checkbox
-                                                </label>
-                                            </div>
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckChecked" checked>
-                                                <label class="form-check-label" for="flexCheckChecked">
-                                                    Checked checkbox
-                                                </label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border-none">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            Themes
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse"
-                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckDefault">
-                                                <label class="form-check-label" for="flexCheckDefault">
-                                                    Default checkbox
-                                                </label>
-                                            </div>
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckChecked" checked>
-                                                <label class="form-check-label" for="flexCheckChecked">
-                                                    Checked checkbox
-                                                </label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border-none">
-                                    <h2 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                            aria-expanded="false" aria-controls="collapseFour">
-                                            Skills
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFour" class="accordion-collapse collapse"
-                                        aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckDefault">
-                                                <label class="form-check-label" for="flexCheckDefault">
-                                                    Default checkbox
-                                                </label>
-                                            </div>
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value=""
-                                                    id="flexCheckChecked" checked>
-                                                <label class="form-check-label" for="flexCheckChecked">
-                                                    Checked checkbox
-                                                </label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-
-
-                        </div>
-
-                    </div>
-                </div>
-            </div>*@
-        </div>
     </div>
+</div>
 
 
  <div class="container mb-3">
@@ -280,22 +39,12 @@
 
       <div class="home-upper-content">
             <div class="home-upper-content-left">
-                <p>Explore <strong>@Model.Missions.Count() missions</strong></p>
+                @*<p>Explore <strong>@TempData["TotalMissions"]</strong></p>*@
+                <p>Explore <strong>@ViewBag.TotalMissions</strong></p>
             </div>
             <div class="home-upper-content-right">
                 <div class="col-custom-home">
-                    @*<form method="get">
-                        <select class="form-select" aria-label="Default select example">
-                        <option selected>Name</option>
-                        <option value="Newest"><a asp-controller="Mission" asp-action="Home" asp-route-id = "Newest">Newest</a></option>
-                        <option value="Oldest"><a asp-controller="Mission" asp-action="Home" asp-route-id = "Oldest">Oldest</a></option>
-                        <option value="LowestAvailableSeats"><a asp-controller="Mission" asp-action="Home" asp-route-id = "LowestAvailableSeats">Lowest Available Seats</a></option>
-                        <option value="HighestAvailableSeats"><a asp-controller="Mission" asp-action="Home" asp-route-id = "HighestAvailableSeats">Highest Available Seats</a></option>
-                        <option value="SortByMyFavorite"><a asp-controller="Mission" asp-action="Home" asp-route-id = "SortByMyFavorite">Sort By My Favorite</a></option>
-                        <option value="SortByDeadline"><a asp-controller="Mission" asp-action="Home" asp-route-id = "SortByDeadline">Sort By Deadline</a></option>
-                    </select>
-                    </form>*@
-                    <div class="sort-bar p-2">
+                      <div class="sort-bar p-2">
 
                         <a class="nav-link dropdown" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false" style="width: 100px;
@@ -306,14 +55,6 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Name">Name</a></li>*@
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Oldest">Oldest</a></li>*@
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "Newest">Newest</a></li>*@
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "LowestAvailableSeats">Lowest Available Seats</a></li>*@
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "HighestAvailableSeats">Highest Available Seats</a></li>*@
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByMyFavorite">Sort By My Favorite</a></li>*@
-                           @*<li><a class="dropdown-item country-name" asp-controller="Mission" asp-action="Home" role="button" asp-route-sort = "SortByDeadline">Sort By Deadline</a></li>*@
-
                            <li><a class="dropdown-item country-name sortby" role="button">Name</a></li>
                            <li><a class="dropdown-item country-name sortby" role="button">Oldest</a></li>
                            <li><a class="dropdown-item country-name sortby" role="button">Newest</a></li>
@@ -321,11 +62,7 @@
                            <li><a class="dropdown-item country-name sortby" role="button">HighestAvailableSeats</a></li>
                            <li><a class="dropdown-item country-name sortby" role="button">SortByMyFavorite</a></li>
                            <li><a class="dropdown-item country-name sortby" role="button">SortByDeadline</a></li>
-                       
-
-                       
-
-
+                                          
                         </ul>
                 
 
@@ -353,31 +90,26 @@
         <partial name="_GridView" />
         <partial name="_ModalData" />
         <partial name="_ListView" />
-        @*<partial name="_pagination" />*@
-        
-            <nav aria-label="Page navigation example">
+     <nav aria-label="Page navigation example">
         <ul class="pagination d-flex justify-content-center mt-3">
             <li class="page-item">
-                <a class="page-link" href="#" aria-label="Previous">
+                <a class="page-link curser-pointer" aria-label="Previous" onclick = "PrevPointer()">
                 <span aria-hidden="true">&laquo;</span>
                 </a>
             </li>
-          
-          @*count = @Model.Missions.Count()/9 *@
-          @for (int i = 1; i <= ViewBag.count/9; i++)
-           {
-               <li class="page-item"><a class="page-link pagination" href="#">@i</a></li>
-           }
+            @for(var i = 0 ;i <= (ViewBag.TotalMissions/9)  ; i++ )
+            {
+                <li class="page-item"><a class="page-link pagination curser-pointer" >@(i+1)</a></li>
+            }
             
-            @*<li class="page-item"><a class="page-link pagination" href="#">2</a></li>*@
-            @*<li class="page-item"><a class="page-link pagination" href="#">3</a></li>*@
+
             <li class="page-item">
-                <a class="page-link" href="#" aria-label="Next">
+                <a class="page-link curser-pointer" aria-label="Next" onclick = "NextPointer()">
                 <span aria-hidden="true">&raquo;</span>
                 </a>
             </li>
         </ul>
-         </nav>
+    </nav>
 
 
  </div>

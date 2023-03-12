@@ -10,9 +10,9 @@ namespace CI_Platform_MVC.Reposatory.Interface
 {
     public interface ILandingPage
     {
-        public MissionVM GetMissionVM(string sessionValue, long id = 0, string sort = "" , int pageNumber = 1);
+        public MissionVM GetMissionVM(string sessionValue, long id = 0, string sort = "");
 
-        public IEnumerable<Mission> ApplyFilter(string filter, string sessionValue, long id=0 , string sort = "" );
-        public MissionVM GetMissionPage(long id, string sessionValue, long theme_id);
+        public IEnumerable<Mission> ApplyFilter(string filter, string sessionValue, long id=0 , string sort = "" , int page =  1);
+        public MissionVM GetMissionPage(long id, string sessionValue);
     }
 }

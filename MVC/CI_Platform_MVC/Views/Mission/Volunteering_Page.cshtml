@@ -107,49 +107,26 @@
                     Recommend to a Co-Worker
                 </button>
                 <partial name="_ModalData" />
-               @*<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-                    aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-                        <div class="modal-content" style="height : 550px">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="exampleModalLabel">Recommend to a Co-Worker</h5>
-                                <button type="button" class="btn-close" data-bs-dismiss="modal"
-                                    aria-label="Close"></button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="container">
-                                    @for (var i = 0; i < 10; i++) { <div class="volunteer-rec">
-                                        <div>
-                                            <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
-                                            <p class="d-inline ms-1">AndrewJohnson</p>
-                                        </div>
-
-                                        <button type="button" class="btn btn-primary rec-btn"><img
-                                                src="~/Images/user.png" alt="">Recommend</button>
-                                </div>
-                                }
-                            </div>
-
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>
-                        </div>
-                    </div>
-                </div>*@
+               
             
         </div>
 
         <div class="text-center mission-theme ">
             <p>
-                <img src="~/Images/star-empty.png" alt="">
-                <img src="~/Images/star-empty.png" alt="">
-                <img src="~/Images/star-empty.png" alt="">
-                <img src="~/Images/star-empty.png" alt="">
-                <img src="~/Images/star-empty.png" alt="">
+
+                <button class="btn-rating" data-bs-toggle="modal"
+                    data-bs-target="#exampleModalRating">
+                    <img src="~/Images/star-empty.png" alt="">
+                    <img src="~/Images/star-empty.png" alt="">
+                    <img src="~/Images/star-empty.png" alt="">
+                    <img src="~/Images/star-empty.png" alt="">
+                    <img src="~/Images/star-empty.png" alt="">
+                </button>
+                
             </p>
 
         </div>
+        <partial name="_modelRating" />
         <div class="row mt-4 mb-4 justify-content-center">
             <div class="mission-info">
                 <div>
@@ -316,19 +293,39 @@
                 <table class="table">
                     <tr>
                         <td>Skills</td>
-                        <td>Cool, Easy going, Math, Computer</td>
+                        @if(Model.Mission.MissionSkills.Count == 0)
+                            {
+                                
+                            <td>Cool, Easy going, Math, Computer</td>
+                        }
+                        else
+                        {
+                            string skills = "";
+                            foreach(var item in Model.Mission.MissionSkills)
+                            {
+                                skills += item.Skill.SkillName + " ";
+
+                            }
+                            <td>@skills</td>
+                        }
                     </tr>
                     <tr>
                         <td>Days</td>
-                        <td>Weekend only</td>
+                        <td>@Model.Mission.Availability</td>
                     </tr>
                     <tr>
                         <td>Rating</td>
-                        <td> <img src="~/Images/selected-star.png" alt="">
-                            <img src="~/Images/selected-star.png" alt="">
-                            <img src="~/Images/selected-star.png" alt="">
-                            <img src="~/Images/selected-star.png" alt="">
-                            <img src="~/Images/star.png" alt=""> <span>(By 125 Volunteers)</span>
+                        <td>
+                            @for(int i=1 ; i<=Model.AvgRating ;i++  )
+                            {
+                                <img src="~/Images/selected-star.png" alt="">
+                            }
+                            @for(int i = 1 ; i<=(5 - Model.AvgRating); i++)
+                            {
+                                <img src="~/Images/star.png" alt="">
+                            }
+
+                            <span>(By @Model.Mission.MissionRatings.Count() Volunteers)</span>
                         </td>
                     </tr>
                 </table>

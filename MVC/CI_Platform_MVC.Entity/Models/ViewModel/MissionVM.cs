@@ -22,5 +22,9 @@ namespace CI_Platform_MVC.Entity.Models.ViewModel
         public Mission Mission { get; set; }
 
         public IEnumerable<Mission> RelatedMissions { get; set; }
+
+        public MissionRating MissionRating { get; set; }    
+
+        public int AvgRating { get; set; }
     }
 }

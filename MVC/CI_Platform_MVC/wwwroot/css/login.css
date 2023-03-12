@@ -601,6 +601,18 @@
     border-radius: 4px;
 }
 
+.curser-pointer {
+    cursor: pointer;
+}
+.curser-block{
+    cursor : not-allowed;
+}
+
+.btn-rating{
+    background : none;
+    border : none;
+}
+
 @media screen and (max-width : 1399px) {
     .comment-box {
         height: 458px !important;

@@ -9,7 +9,8 @@
            {
                <div class="col mission-list">
                 <div class="card h-100">
-                    <div class="d-flex justify-content-end" style="background: url('/images/Grow-Trees-On-the-path-to-environment-sustainability.png') center center no-repeat content-box; background-size: cover; height: 200px">
+                    @*<div class="d-flex justify-content-end" style="background: url('/images/Grow-Trees-On-the-path-to-environment-sustainability.png') center center no-repeat content-box; background-size: cover; height: 200px">*@
+                    <div class="d-flex justify-content-end" style="background: url(@item.MissionMedia.Where(u=>u.DefaultMissionMedia==1).First().MediaPath) center center no-repeat content-box; background-size: cover; height: 200px">
                     
                         <div class="mission-location" >
                             <img src="~/Images/pin.png" alt="" style="margin-right: 5px;"><span class="mission-location-city">@item.City.Name</span>
@@ -88,7 +89,7 @@
                     </div>
                     <div class="card-footer text-center">
                         <form>
-                            <button asp-controller="Mission" asp-action="Volunteering_Page" asp-route-id="@item.MissionId" asp-route-themeid="@item.ThemeId">Apply <span><img src="~/Images/right-arrow.png" alt=""></span></button>
+                            <button asp-controller="Mission" asp-action="Volunteering_Page" asp-route-id="@item.MissionId">Apply <span><img src="~/Images/right-arrow.png" alt=""></span></button>
                         </form>
                         
                     </div>
