@@ -18,6 +18,10 @@ namespace CI_Platform_MVC.Reposatory.Interface
 
         public ISkillRepository Skill { get; }
         public IMissionRatingRepository MissionRating{ get; }
+
+        public IFavoriteMissionRepository FavoriteMission { get; }  
+
+        public IMissionInviteRepository MissionInvite { get; }
         public void Save();
     }
 }

@@ -21,13 +21,13 @@ namespace CI_Platform_MVC.Reposatory.Repositories
         public List<Mission> GetAllMissions()
         {
             //List<Mission> missionList = GetAll().ToList();
-            var missionList = _db.Missions.Include(m => m.City).Include(m => m.Theme).Include(m=>m.MissionSkills).Include(m=>m.MissionMedia).ToList();
+            var missionList = _db.Missions.Include(m => m.City).Include(m => m.Theme).Include(m=>m.MissionSkills).Include(m=>m.MissionMedia).Include(m => m.MissionRatings).Include(m=>m.FavoriteMissions).Include(m=>m.MissionInvites).ToList();
             return missionList;
         }
 
         public Mission GetMission(long id)
         {
-            var mission = _db.Missions.Include(m => m.City).Include(m => m.Theme).Include(m=>m.MissionSkills).Include(m=>m.MissionRatings).Include(m=>m.MissionMedia).Where(u=>u.MissionId == id).FirstOrDefault();
+            var mission = _db.Missions.Include(m => m.City).Include(m => m.Theme).Include(m=>m.MissionSkills).Include(m=>m.MissionRatings).Include(m=>m.MissionMedia).Where(u=>u.MissionId == id).Include(m => m.FavoriteMissions).Include(m => m.MissionInvites).FirstOrDefault();
             return mission;
         }
 

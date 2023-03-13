@@ -24,6 +24,10 @@ namespace CI_Platform_MVC.Reposatory.Repositories
 
         public IMissionRatingRepository MissionRating { get; private set; }
 
+        public IFavoriteMissionRepository FavoriteMission { get; private set;}
+
+        public IMissionInviteRepository MissionInvite { get; private set; }
+
         public IUserRepository User { get; private set; }
         public UnitOfWork(CiPlatformContext db)
         {
@@ -36,6 +40,8 @@ namespace CI_Platform_MVC.Reposatory.Repositories
             Skill = new SkillRepository(_db);
             Mission = new MissionRepository(_db);
             MissionRating = new MissionRatingRepository(_db);
+            FavoriteMission = new FavoriteMissionRepository(_db);
+            MissionInvite = new MissionInviteRepository(_db);
         }
 
         public void Save()

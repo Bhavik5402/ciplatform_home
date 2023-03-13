@@ -20,9 +20,19 @@
                                                 <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
                                                 <p class="d-inline ms-1">@item.FirstName @item.LastName</p>
                                             </div>
-
-                                            <button type="button" class="btn btn-primary rec-btn"><img
+                           @* @{
+                                var recCount = Model.Missions.Where(m => m.MissionId == Model.Mission.MissionId).First().MissionInvites.Where(u => u.ToUserId == @item.UserId && u.FromUserId == Model.User.UserId).Count();
+                                if(recCount > 0)
+                                {
+                                    <button type="button" class="btn btn-outline-success rec-btn"  value="@Model.User.UserId @item.UserId @Model.Mission.MissionId" ><img src="/Images/right.png" alt="">Recommended</button>
+                                }
+                                else
+                                {*@
+                                    <button type="button" class="btn btn-primary rec-btn"  value="@Model.User.UserId @item.UserId @Model.Mission.MissionId" ><img
                                                 src="~/Images/user.png" alt="">Recommend</button>
+                           @*     }
+                            }*@
+                                            
                                          </div>
                                     }
 

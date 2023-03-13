@@ -97,36 +97,127 @@
                 </div>
             </div>
             <div class="mission-btn-group mt-3 border-bottom pb-4">
-                <button class="mission-btn text-center bg-white mt-3" id="like-btn">
+                @{
+                    var favCount = Model.Mission.FavoriteMissions.Where(u => u.MissionId == Model.Mission.MissionId && u.UserId == Model.User.UserId).Count();
+                    if(favCount > 0)
+                    {
+                        Model.IsFav = true;
+                        <button class="mission-btn text-center bg-red mt-3" id="like-btn" value = "@Model.Mission.MissionId @Model.User.UserId">
+                    <img src="~/images/heart.png" id="add-fav" />
+                    Add to Favourite
+                        </button>
+                    }
+                    else
+                    {
+                        Model.IsFav = false;
+                        <button class="mission-btn text-center bg-white mt-3" id="like-btn" value = "@Model.Mission.MissionId @Model.User.UserId">
                     <img src="~/images/heart1.png" id="add-fav" />
                     Add to Favourite
-                </button>
+                    </button>
+                }
+                }
                 <button class="mission-btn text-center bg-white mt-3" data-bs-toggle="modal"
                     data-bs-target="#exampleModal">
                     <img src="~/images/add1.png" />
                     Recommend to a Co-Worker
                 </button>
-                <partial name="_ModalData" />
+                @*<partial name="_ModalData" />*@
                
             
-        </div>
+            </div>
+             <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                          <div class="modal-content" style="height : 550px">
+                              <div class="modal-header">
+                                   <h5 class="modal-title" id="exampleModalLabel">Recommend to a Co-Worker</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                            aria-label="Close">
+                                     </button>
+                               </div>
+                               <div class="modal-body">
+                                   <div class="container">
 
-        <div class="text-center mission-theme ">
-            <p>
+                                       @foreach (var user in Model.users)
+                                           {
+                                               <div class="volunteer-rec">
+                                                   <div>
+                                                       <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
+                                                       <p class="d-inline ms-1">@user.FirstName @user.LastName</p>
+                                                   </div>
+                                               @{
+                                                   var recCount = Model.Mission.MissionInvites.Where(u => u.ToUserId == @user.UserId && u.FromUserId == Model.User.UserId && u.MissionId == Model.Mission.MissionId).Count();
+                                                   if(recCount > 0)
+                                                   {
+                                                       <button type="button" class="btn btn-outline-success rec-btn"  value="@Model.User.UserId @user.UserId @Model.Mission.MissionId" ><img src="~/Images/right.png" alt="">Recommended</button>
+                                                   }
+                                                   else
+                                                   {
+                                                       <button type="button" class="btn btn-primary rec-btn"  value="@Model.User.UserId @user.UserId @Model.Mission.MissionId"><img src="~/Images/user.png" alt="">Recommend</button>
+                                                   }
+                                                }
+                               
+                                               </div>
+                                           }
 
-                <button class="btn-rating" data-bs-toggle="modal"
-                    data-bs-target="#exampleModalRating">
-                    <img src="~/Images/star-empty.png" alt="">
-                    <img src="~/Images/star-empty.png" alt="">
-                    <img src="~/Images/star-empty.png" alt="">
-                    <img src="~/Images/star-empty.png" alt="">
-                    <img src="~/Images/star-empty.png" alt="">
+                     
+                                   </div>
+                     
+                               </div>
+                               <div class="modal-footer">
+                                   <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                   <button type="button" class="btn btn-primary">Save changes</button>
+                               </div>
+                          </div>
+                     </div>
+                </div>
+
+            <div class="text-center mission-theme ">
+                <p>
+
+                    <button class="btn-rating starbtn" data-bs-toggle="modal"
+                        data-bs-target="#exampleModalRating">
+                        @{
+
+
+                            var ratingObjcount = Model.Mission.MissionRatings.Count();
+                            if(ratingObjcount > 0)
+                            {
+                               var ratingObj = Model.MissionRating.Where(u => u.MissionId == Model.Mission.MissionId && u.UserId == Model.User.UserId).First();
+                            var ratingCount = 0;
+                            if(ratingObj != null)
+                            {
+                                ratingCount = ratingObj.Rating;
+                            }
+                            for(var i=1 ; i <= ratingCount ; i++)
+                                {
+                                    <img src="~/Images/selected-star.png" alt="">
+                                }
+                            for(var i=1 ; i<= (5 - ratingCount) ;i++ )
+                                {
+                                    <img src="~/Images/star-empty.png" alt="">
+                                }
+                            }
+                            //var ratingObj = Model.Mission.MissionRatings.Where(u => u.MissionId == Model.Mission.MissionId && u.UserId == Model.User.UserId).First();
+                            else
+                            {
+                                <img src="~/Images/star-empty.png" alt="">
+                                <img src="~/Images/star-empty.png" alt="">
+                                <img src="~/Images/star-empty.png" alt="">
+                                <img src="~/Images/star-empty.png" alt="">
+                                <img src="~/Images/star-empty.png" alt="">
+                            }
+
+                      
+                        }
+                        
+
+                      
                 </button>
                 
             </p>
 
         </div>
-        <partial name="_modelRating" />
+        <partial name="_modelRating"/>
         <div class="row mt-4 mb-4 justify-content-center">
             <div class="mission-info">
                 <div>

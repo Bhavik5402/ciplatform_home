@@ -17,13 +17,71 @@
                         </div>
                         <div class="btn-group mission-buttons-List flex-column">
                             <div class="mission-like">
-
-                                <button class="like-btn-card"><img src="~/Images/heart.png" alt="" style="height:20px;"></button>
+                             @{
+                                       var favCount = item.FavoriteMissions.Where(u => u.UserId == Model.User.UserId).Count();
+                                    if(favCount > 0)
+                                   {
+                                       <button class="like-btn-card like-card" ><img src="~/Images/heartred.png" alt="" style="height:20px;" value = "@item.MissionId @Model.User.UserId"></button>
+                                   }
+                                   else
+                                   {
+                                        <button class="like-btn-card like-card"><img src="~/Images/heart.png" alt="" style="height:20px;" value = "@item.MissionId @Model.User.UserId"></button>
+                                   }
+                             }
+                                    
+                            
+                                
                             </div>
                             <div class="mission-seat">
 
                                 <button data-bs-toggle="modal"
                                 data-bs-target="#exampleModal"><img src="~/Images/user.png" alt=""></button>
+                            </div>
+                            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                                       <div class="modal-content" style="height : 550px">
+                                           <div class="modal-header">
+                                                <h5 class="modal-title" id="exampleModalLabel">Recommend to a Co-Worker</h5>
+                                                 <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                                         aria-label="Close">
+                                                  </button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="container">
+
+                                                    @foreach (var user in Model.users)
+                                                        {
+                                                            <div class="volunteer-rec">
+                                                                <div>
+                                                                    <img src="~/Images/volunteer1.png" alt="" class="volunteer-rec-img">
+                                                                    <p class="d-inline ms-1">@user.FirstName @user.LastName</p>
+                                                                </div>
+                                                            @{
+                                                                var recCount = Model.Missions.Where(m => m.MissionId == @item.MissionId).First().MissionInvites.Where(u => u.ToUserId == @user.UserId && u.FromUserId == Model.User.UserId).Count();
+                                                                if(recCount > 0)
+                                                                {
+                                                                    <button type="button" class="btn btn-outline-success rec-btn"  value="@Model.User.UserId @user.UserId @item.MissionId" ><img src="/Images/right.png" alt="">Recommended</button>
+                                                                }
+                                                                else
+                                                                {
+                                                                    <button type="button" class="btn btn-primary rec-btn"  value="@Model.User.UserId @user.UserId @item.MissionId" ><img
+                                                                    src="~/Images/user.png" alt="">Recommend</button>
+                                                                }
+                                                             }
+                                            
+                                                            </div>
+                                                        }
+
+                                 
+                                                </div>
+                            
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                                <button type="button" class="btn btn-primary">Save changes</button>
+                                            </div>
+                                       </div>
+                                  </div>
                             </div>
                         </div>
                         
@@ -42,11 +100,39 @@
                                 <p>@item.OrganizationName</p>
                             </div>
                             <div>
+                                @{
+                                    var mrating = item.MissionRatings;
+                                    var sum = 0;
+                                    var avgRating = 0;
+                                    foreach (MissionRating rating in mrating)
+                                    {
+                                        sum += rating.Rating;
+                                    }
+                                    if(sum > 0)
+                                    {
+                                        avgRating = sum/ mrating.Count();
+                                    }
+                                    else
+                                    {
+                                        avgRating = 0;
+                                    }
+
+                                    for(var i=1;i<=avgRating ; i++)
+                                    {
+                                        <img src="~/Images/selected-star.png" alt="">
+                                    }
+                                    for(var i=1;i<=(5 - avgRating) ; i++)
+                                    {
+                                        <img src="~/Images/star.png" alt="">
+                                    }
+
+
+                                }
+@*                                <img src="~/Images/selected-star.png" alt="">
                                 <img src="~/Images/selected-star.png" alt="">
                                 <img src="~/Images/selected-star.png" alt="">
                                 <img src="~/Images/selected-star.png" alt="">
-                                <img src="~/Images/selected-star.png" alt="">
-                                <img src="~/Images/star.png" alt="">
+                                <img src="~/Images/star.png" alt="">*@
 
                             </div>
                         </div>

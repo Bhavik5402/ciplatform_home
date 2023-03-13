@@ -12,6 +12,7 @@ namespace CI_Platform_MVC.Reposatory.Interface
         T GetFirstOrDefault(Expression<Func<T, bool>> filter);
         IEnumerable<T> GetAll();
         void Add(T entity);
+        void Update(T entity);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities);
     }

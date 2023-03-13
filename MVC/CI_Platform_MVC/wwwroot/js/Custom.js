@@ -1,5 +1,7 @@
 ////const { event } = require("jquery");
 
+//const { event } = require("jquery");
+
 localStorage.setItem("test2", "6969");
 grid_btn=document.getElementById("grid-btn");
 list_btn=document.getElementById("list-btn");
@@ -13,7 +15,6 @@ let input_text = document.getElementById("searchbar");
 let x = document.getElementsByClassName('card-title');
 let y = document.getElementsByClassName('mission-list');
 let notfound = document.getElementById('notfound');
-input_text.addEventListener("keyup", search_mission);
 
 let navbadge_city = document.getElementById("nav-badge-city");
 let navbadge_skill = document.getElementById("nav-badge-skill");
@@ -32,6 +33,10 @@ let mission_theme_list = document.getElementsByClassName("mission-theme-list");
 let checkboxInput = document.getElementsByClassName("form-check-input");
 let sortBy = document.getElementsByClassName("sortby");
 let pagination = document.getElementsByClassName("pagination");
+let rating_btn = document.getElementsByClassName("rating-btn");
+//let AddFav = document.getElementById("add-fav");
+//let like_btn = document.getElementById("like-btn");
+//like_btn.addEventListener("click", AddToFav);
 
 let filterList = new Set([]);
 let filterTheme = new Set([]);
@@ -41,6 +46,7 @@ let skilllist = new Array();
 let themelist = new Array();
 let themecitylist = new Array();
 let hiddencity = new Array();
+//input_text.addEventListener("keyup", search_mission);
 
 //sortBy
 
@@ -52,6 +58,12 @@ for (i = 0; i < sortBy.length; i++) {
 
 for (i = 0; i < pagination.length; i++) {
     pagination[i].addEventListener("click" , AddPagination)
+}
+
+//rating
+
+for (i = 0; i < rating_btn.length; i++) {
+    rating_btn[i].addEventListener("click", missionRating)
 }
 
 for (i = 0; i < mission_city_list.length; i++) {
@@ -124,45 +136,6 @@ function SortByFilter() {
 
 
 
-
-
-//function search_mission() {
-//    let count=0;
-//    let input = input_text.value
-//    input = input.toLowerCase();
-
-
-//    for (i = 0; i < y.length; i++) {
-//        if (!x[i].innerHTML.toLowerCase().includes(input)) {
-//            y[i].classList.add("hide");
-            
-
-//        }
-//        else {
-//            y[i].classList.remove("hide");
-            
-
-//        }
-//    }
-
-
-//    for (i = 0; i < y.length; i++) {
-//        if (y[i].classList.contains("hide")) {
-//            count++;
-//        }
-//    }
-
-//    console.log(count, y.length)
-
-//    if (count == y.length) {
-//        notfound.classList.remove('hide');
-//    }
-//    else {
-//        notfound.classList.add('hide');
-//    }
-
-//}
-
 let inputData = "";
 function search_mission() {
     let count = 0;
@@ -175,12 +148,67 @@ function search_mission() {
 
 }
 
+
+//function AddToFav() {
+//    if (like_btn.classList.contains("bg-white")) {
+//        add_fav.setAttribute("src", "/images/heart.png");
+//        like_btn.classList.remove("bg-white");
+//        like_btn.classList.add("bg-red");
+//    }
+//    else {
+//        add_fav.setAttribute("src", "/images/heart1.png");
+//        like_btn.classList.add("bg-white");
+//        like_btn.classList.remove("bg-red");
+//    }
+//    var Data = event.target.getAttribute("value");
+//    var favArr = Data.split(" ");
+//    let favObj = {
+//        missionId: favArr[0],
+//        userId: favArr[1]
+//    }
+//    var url = "/Mission/AddToFav?favObj=" + JSON.stringify(favObj);
+//    $.ajax({
+//        url: url,
+//        success: function (data) {
+//            //var url = "/Mission/Volunteering_Page";
+//            window.location.reload();
+//        },
+//        error: function (err) {
+//            console.error(err);
+//        }
+//    })
+
+//}
+
+
+function missionRating() {
+    var rating = event.target.getAttribute("value");
+    var ratingarr = rating.split(" ");
+    let ratingObj = {
+        ratingval: ratingarr[0],
+        missionId: ratingarr[1],
+        userId: ratingarr[2]
+    }
+    var url = "/Mission/AddRating?rating=" + JSON.stringify(ratingObj);
+    $.ajax({
+        url: url,
+        success: function (data) {
+            //var url = "/Mission/Volunteering_Page";
+            window.location.reload();
+        },
+        error: function (err) {
+            console.error(err);
+        }
+    })
+}
+
 function sendInfo() {
     filtercitystr = "";
     filterthemestr = "";
     filterSkillstr = "";
     let sort = sortname;
     let searchInput = inputData;
+    
 
 
 
@@ -243,6 +271,9 @@ function sendInfo() {
             success: function (data) {
                 if (data.length == 0) {
                     notfound.classList.remove('hide');
+                }
+                else {
+                    notfound.classList.add('hide');
                 }
                 console.log(data);
                 var temp = "";
@@ -550,4 +581,3 @@ for (i = 0; i < country_name.length; i++) {
 
 
 }
-

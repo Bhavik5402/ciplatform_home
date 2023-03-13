@@ -92,7 +92,10 @@
 });
 
 let like_btn = document.getElementById("like-btn");
+//let like_card = document.getElementById("like-card");
+let like_card = document.getElementsByClassName("like-card");
 
+//like_card.addEventListener("click", AddToFav);
 let add_fav = document.getElementById("add-fav");
 
 let main_img = document.getElementById("main-img");
@@ -113,55 +116,74 @@ tab_3 = document.getElementById("tab-3");
 
 
 
-
+for (i = 0; i < like_card.length; i++) {
+    like_card[i].addEventListener("click", AddToFav);
+}
 
 
 for (i = 0; i < rec_btn.length; i++) {
-    rec_btn[i].addEventListener("click", (e) => {
-        if (e.target.classList.contains("btn-primary")) {
-            e.target.classList.remove("btn-primary");
-            e.target.classList.add("btn-outline-success");
-            e.target.innerHTML = `<img src="/Images/right.png" alt="">Recommended`;
-        }
-        else {
-            e.target.classList.remove("btn-outline-success");
-            e.target.classList.add("btn-primary");
-            e.target.innerHTML = `<img src="/Images/user.png" alt="">Recommend`;
-        }
-
-    })
+    rec_btn[i].addEventListener("click", RecommendToCoworker);
 }
 
-for (i = 0; i < like_btn_card.length; i++) {
-    like_btn_card[i].addEventListener("click", (e) => {
+//for (i = 0; i < like_btn_card.length; i++) {
+//    like_btn_card[i].addEventListener("click", (e) => {
 
-        if (e.target.classList.contains("liked")) {
-            e.target.setAttribute("src", "/images/heart.png");
-            e.target.classList.remove("liked")
-        }
-        else {
-            e.target.setAttribute("src", "/images/heartred.png");
-            e.target.classList.add("liked");
-        }
+//        if (e.target.classList.contains("liked")) {
+//            e.target.setAttribute("src", "/images/heart.png");
+//            e.target.classList.remove("liked")
+//        }
+//        else {
+//            e.target.setAttribute("src", "/images/heartred.png");
+//            e.target.classList.add("liked");
+//        }
 
         
+//    })
+//}
+like_btn.addEventListener("click", AddToFav);
+
+function AddToFav() {
+    
+    var Data = event.target.getAttribute("value");
+    var favArr = Data.split(" ");
+    let favObj = {
+        missionId: favArr[0],
+        userId: favArr[1]
+    }
+    var url = "/Mission/AddToFav?favObj=" + JSON.stringify(favObj);
+    $.ajax({
+        url: url,
+        success: function (data) {
+            //var url = "/Mission/Volunteering_Page";
+            window.location.reload();
+        },
+        error: function (err) {
+            console.error(err);
+        }
     })
+
 }
 
-
-like_btn.addEventListener("click", function () {
-    if (like_btn.classList.contains("bg-white")) {
-        add_fav.setAttribute("src", "/images/heart.png");
-        like_btn.classList.remove("bg-white");
-        like_btn.classList.add("bg-red");
+function RecommendToCoworker() {
+    var Data = event.target.getAttribute("value");
+    var RecArr = Data.split(" ");
+    let RecObj = {
+        FromUserId: RecArr[0],
+        ToUserId: RecArr[1],
+        MissionId: RecArr[2]
     }
-    else {
-        add_fav.setAttribute("src", "/images/heart1.png");
-        like_btn.classList.add("bg-white");
-        like_btn.classList.remove("bg-red");
-    }
-
-})
+    var url = "/Mission/AddToRec?RecObj=" + JSON.stringify(RecObj);
+    $.ajax({
+        url: url,
+        success: function (data) {
+            //var url = "/Mission/Volunteering_Page";
+            window.location.reload();
+        },
+        error: function (err) {
+            console.error(err);
+        }
+    })
+}
 
 for (i = 0; i < infovol_img.length; i++) {
     

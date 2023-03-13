@@ -608,8 +608,8 @@
     cursor : not-allowed;
 }
 
-.btn-rating{
-    background : none;
+.starbtn {
+    background :none;
     border : none;
 }
 

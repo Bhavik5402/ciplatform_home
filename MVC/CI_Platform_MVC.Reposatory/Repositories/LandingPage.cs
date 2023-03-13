@@ -236,15 +236,16 @@ namespace CI_Platform_MVC.Reposatory.Repositories
         {
             MissionVM missionVM = new();
             missionVM.skills = _UnitOfWork.Skill.GetAll();
-            IEnumerable<MissionRating> missionRating = _UnitOfWork.MissionRating.GetAll().Where(m=>m.MissionId == id);
+            missionVM.MissionRating = _UnitOfWork.MissionRating.GetAll().Where(m=>m.MissionId == id);
+            
             int sum = 0;
-            foreach (MissionRating rating in missionRating)
+            foreach (MissionRating rating in missionVM.MissionRating)
             {
                 sum += rating.Rating;
             }
             if(sum > 0)
             {
-                missionVM.AvgRating = sum/missionRating.Count();
+                missionVM.AvgRating = sum/ missionVM.MissionRating.Count();
             }
             else
             {
@@ -254,6 +255,8 @@ namespace CI_Platform_MVC.Reposatory.Repositories
             missionVM.User = _UnitOfWork.User.GetFirstOrDefault(u => u.Email == sessionValue);
             missionVM.users = _UnitOfWork.User.GetAll().Where(u => u.Email != sessionValue);
             missionVM.RelatedMissions = _UnitOfWork.Mission.RelatedMissions(id);
+            
+
             return missionVM;
         }
 

@@ -47,6 +47,10 @@ namespace CI_Platform_MVC.Reposatory.Repositories
         {
             dbSet.Add(entity);
         }
+        public void Update(T entity)
+        {
+            dbSet.Update(entity);
+        }
 
 
     }
